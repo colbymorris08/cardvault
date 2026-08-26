@@ -1,0 +1,72 @@
+{
+  "query": "Jordan Fleer 57",
+  "grade": "PSA 9",
+  "fetched_at": "2026-08-26T14:59:46.308535",
+  "sources": {
+    "hoodcar": {
+      "avg": 11524.71,
+      "low": 5602.5,
+      "max": 112500,
+      "min": 18,
+      "high": 16018,
+      "as_of": "2026-08-26T08:15:00.116486+00:00",
+      "grade": null,
+      "query": "Jordan Fleer 57 PSA 9",
+      "value": 8100,
+      "filter": {
+        "max_price": null,
+        "min_price": null
+      },
+      "verdict": "Hold",
+      "by_grade": [
+        {
+          "avg": 22976.5,
+          "low": 16762.5,
+          "max": 35101,
+          "min": 11059,
+          "high": 31767.25,
+          "grade": "PSA 9",
+          "value": 20244.5,
+          "median": 20244.5,
+          "sample_size": 6
+        },
+        {
+          "avg": 16919.38,
+          "low": 16285.25,
+          "max": 22950,
+          "min": 9180,
+          "high": 17996.75,
+          "grade": "PSA 8",
+          "value": 17100,
+          "median": 17100,
+          "sample_size": 16
+        }
+      ],
+      "currency": "USD",
+      "watchers": null,
+      "buy_score": 59,
+      "last_sale": 14499.99,
+      "liquidity": 100,
+      "sales_90d": 26,
+      "trend_30d": -21.6,
+      "confidence": 63,
+      "population": null,
+      "sample_size": 75,
+      "last_sale_date": "2026-08-14T02:41:13.045+00:00"
+    },
+    "hoodcar_sold": {
+      "avg": null,
+      "max": null,
+      "min": null,
+      "sales": 0,
+      "median": null,
+      "by_grade": [],
+      "window_days": 30
+    }
+  },
+  "fair_value": 8100,
+  "buy_score": 59,
+  "verdict": "Hold",
+  "confidence": 63,
+  "liquidity": 100
+}
