@@ -1,0 +1,3575 @@
+{
+  "movers": {
+    "movers": [
+      {
+        "n": 2109,
+        "label": "baseball-auto",
+        "category": "baseball",
+        "prev_avg": 929.56,
+        "direction": "up",
+        "pct_change": 7.27,
+        "current_avg": 997.17
+      },
+      {
+        "n": 688,
+        "label": "mahomes",
+        "category": "football",
+        "prev_avg": 2989.37,
+        "direction": "up",
+        "pct_change": 4.52,
+        "current_avg": 3124.47
+      },
+      {
+        "n": 2200,
+        "label": "vintage",
+        "category": "vintage",
+        "prev_avg": 1497.97,
+        "direction": "up",
+        "pct_change": 3.31,
+        "current_avg": 1547.61
+      },
+      {
+        "n": 170,
+        "label": "yamal",
+        "category": "soccer",
+        "prev_avg": 623.23,
+        "direction": "down",
+        "pct_change": -2.89,
+        "current_avg": 605.23
+      },
+      {
+        "n": 174,
+        "label": "bellingham",
+        "category": "soccer",
+        "prev_avg": 569.6,
+        "direction": "down",
+        "pct_change": -2.75,
+        "current_avg": 553.91
+      },
+      {
+        "n": 387,
+        "label": "brady",
+        "category": "football",
+        "prev_avg": 10554.42,
+        "direction": "up",
+        "pct_change": 2.49,
+        "current_avg": 10817.72
+      },
+      {
+        "n": 2398,
+        "label": "football-auto",
+        "category": "football",
+        "prev_avg": 1160.19,
+        "direction": "down",
+        "pct_change": -2.16,
+        "current_avg": 1135.11
+      },
+      {
+        "n": 228,
+        "label": "spongebob",
+        "category": "misc",
+        "prev_avg": 3000.9,
+        "direction": "up",
+        "pct_change": 1.92,
+        "current_avg": 3058.59
+      },
+      {
+        "n": 299,
+        "label": "marvel",
+        "category": "misc",
+        "prev_avg": 1419.36,
+        "direction": "up",
+        "pct_change": 1.64,
+        "current_avg": 1442.57
+      },
+      {
+        "n": 224,
+        "label": "haaland",
+        "category": "soccer",
+        "prev_avg": 1729.85,
+        "direction": "up",
+        "pct_change": 1.42,
+        "current_avg": 1754.44
+      },
+      {
+        "n": 880,
+        "label": "ohtani",
+        "category": "baseball",
+        "prev_avg": 9048,
+        "direction": "up",
+        "pct_change": 1.41,
+        "current_avg": 9175.58
+      },
+      {
+        "n": 447,
+        "label": "pokemon-bgs10",
+        "category": "pokemon",
+        "prev_avg": 3511.62,
+        "direction": "up",
+        "pct_change": 1.14,
+        "current_avg": 3551.72
+      },
+      {
+        "n": 157,
+        "label": "pujols",
+        "category": "baseball",
+        "prev_avg": 661.7,
+        "direction": "up",
+        "pct_change": 1.04,
+        "current_avg": 668.61
+      },
+      {
+        "n": 87,
+        "label": "holliday",
+        "category": "baseball",
+        "prev_avg": 501.69,
+        "direction": "down",
+        "pct_change": 0.92,
+        "current_avg": 506.33
+      },
+      {
+        "n": 117,
+        "label": "yordan",
+        "category": "baseball",
+        "prev_avg": 454.35,
+        "direction": "down",
+        "pct_change": 0.82,
+        "current_avg": 458.09
+      },
+      {
+        "n": 262,
+        "label": "football-rookie",
+        "category": "football",
+        "prev_avg": 693.54,
+        "direction": "up",
+        "pct_change": 0.78,
+        "current_avg": 698.95
+      },
+      {
+        "n": 52,
+        "label": "delacruz",
+        "category": "baseball",
+        "prev_avg": 431.7,
+        "direction": "down",
+        "pct_change": 0.76,
+        "current_avg": 434.96
+      },
+      {
+        "n": 431,
+        "label": "yugioh",
+        "category": "yugioh",
+        "prev_avg": 735.95,
+        "direction": "flat",
+        "pct_change": 0.75,
+        "current_avg": 741.45
+      },
+      {
+        "n": 65,
+        "label": "jrod",
+        "category": "baseball",
+        "prev_avg": 464.85,
+        "direction": "down",
+        "pct_change": 0.72,
+        "current_avg": 468.19
+      },
+      {
+        "n": 145,
+        "label": "mtg-lotus",
+        "category": "magic",
+        "prev_avg": 12053.45,
+        "direction": "flat",
+        "pct_change": 0.72,
+        "current_avg": 12139.85
+      },
+      {
+        "n": 399,
+        "label": "ruth",
+        "category": "vintage",
+        "prev_avg": 8354.78,
+        "direction": "up",
+        "pct_change": 0.66,
+        "current_avg": 8409.58
+      },
+      {
+        "n": 139,
+        "label": "maradona",
+        "category": "vintage",
+        "prev_avg": 1401.37,
+        "direction": "up",
+        "pct_change": 0.64,
+        "current_avg": 1410.37
+      },
+      {
+        "n": 279,
+        "label": "judge",
+        "category": "baseball",
+        "prev_avg": 472.6,
+        "direction": "down",
+        "pct_change": 0.62,
+        "current_avg": 475.54
+      },
+      {
+        "n": 296,
+        "label": "allen",
+        "category": "football",
+        "prev_avg": 463.92,
+        "direction": "down",
+        "pct_change": 0.57,
+        "current_avg": 466.55
+      },
+      {
+        "n": 161,
+        "label": "pele",
+        "category": "vintage",
+        "prev_avg": 1607.59,
+        "direction": "down",
+        "pct_change": -0.57,
+        "current_avg": 1598.4
+      }
+    ]
+  },
+  "index_basketball": {
+    "series": [
+      {
+        "avg": 1634.12,
+        "date": "2026-06-03",
+        "median": 443.46,
+        "category": "basketball",
+        "listings": 1768,
+        "floor_min": 200,
+        "total_value": 3595680.01
+      },
+      {
+        "avg": 1637.13,
+        "date": "2026-06-04",
+        "median": 441.16,
+        "category": "basketball",
+        "listings": 1732,
+        "floor_min": 200,
+        "total_value": 3548799.27
+      },
+      {
+        "avg": 1618.08,
+        "date": "2026-06-05",
+        "median": 441.06,
+        "category": "basketball",
+        "listings": 1718,
+        "floor_min": 200,
+        "total_value": 3510291.95
+      },
+      {
+        "avg": 1600.19,
+        "date": "2026-06-06",
+        "median": 429.21,
+        "category": "basketball",
+        "listings": 1933,
+        "floor_min": 200,
+        "total_value": 3838702.03
+      },
+      {
+        "avg": 1699.13,
+        "date": "2026-06-07",
+        "median": 456.78,
+        "category": "basketball",
+        "listings": 1979,
+        "floor_min": 200,
+        "total_value": 4307046.22
+      },
+      {
+        "avg": 1772.8,
+        "date": "2026-06-08",
+        "median": 509.01,
+        "category": "basketball",
+        "listings": 2234,
+        "floor_min": 200,
+        "total_value": 4832693.81
+      },
+      {
+        "avg": 1799.74,
+        "date": "2026-06-09",
+        "median": 507.58,
+        "category": "basketball",
+        "listings": 2159,
+        "floor_min": 200,
+        "total_value": 4700097.64
+      },
+      {
+        "avg": 1797.34,
+        "date": "2026-06-10",
+        "median": 503.52,
+        "category": "basketball",
+        "listings": 2132,
+        "floor_min": 200,
+        "total_value": 4621947.47
+      },
+      {
+        "avg": 1763.29,
+        "date": "2026-06-11",
+        "median": 495.95,
+        "category": "basketball",
+        "listings": 2371,
+        "floor_min": 200,
+        "total_value": 5061494.33
+      },
+      {
+        "avg": 1790.26,
+        "date": "2026-06-12",
+        "median": 489.78,
+        "category": "basketball",
+        "listings": 2323,
+        "floor_min": 200,
+        "total_value": 5002644.95
+      },
+      {
+        "avg": 1790.96,
+        "date": "2026-06-13",
+        "median": 485.28,
+        "category": "basketball",
+        "listings": 2296,
+        "floor_min": 200,
+        "total_value": 4960310.77
+      },
+      {
+        "avg": 1798.2,
+        "date": "2026-06-14",
+        "median": 497.78,
+        "category": "basketball",
+        "listings": 2480,
+        "floor_min": 200,
+        "total_value": 5196656.04
+      },
+      {
+        "avg": 1835.88,
+        "date": "2026-06-15",
+        "median": 516.41,
+        "category": "basketball",
+        "listings": 2460,
+        "floor_min": 200,
+        "total_value": 5455095.04
+      },
+      {
+        "avg": 1839.37,
+        "date": "2026-06-16",
+        "median": 515.53,
+        "category": "basketball",
+        "listings": 2419,
+        "floor_min": 200,
+        "total_value": 5368808.09
+      },
+      {
+        "avg": 1836.86,
+        "date": "2026-06-17",
+        "median": 515.28,
+        "category": "basketball",
+        "listings": 2392,
+        "floor_min": 200,
+        "total_value": 5288822.88
+      },
+      {
+        "avg": 1970.79,
+        "date": "2026-06-18",
+        "median": 508.84,
+        "category": "basketball",
+        "listings": 2712,
+        "floor_min": 200,
+        "total_value": 6248016.11
+      },
+      {
+        "avg": 1991.01,
+        "date": "2026-06-19",
+        "median": 510.91,
+        "category": "basketball",
+        "listings": 2657,
+        "floor_min": 200,
+        "total_value": 6211564.74
+      },
+      {
+        "avg": 1989.07,
+        "date": "2026-06-20",
+        "median": 509.94,
+        "category": "basketball",
+        "listings": 2643,
+        "floor_min": 200,
+        "total_value": 6155328.51
+      },
+      {
+        "avg": 1988.86,
+        "date": "2026-06-21",
+        "median": 503.2,
+        "category": "basketball",
+        "listings": 2608,
+        "floor_min": 200,
+        "total_value": 6095664.16
+      },
+      {
+        "avg": 1999.69,
+        "date": "2026-06-22",
+        "median": 507.46,
+        "category": "basketball",
+        "listings": 2579,
+        "floor_min": 200,
+        "total_value": 6040265.59
+      },
+      {
+        "avg": 1909.02,
+        "date": "2026-06-23",
+        "median": 483.05,
+        "category": "basketball",
+        "listings": 2900,
+        "floor_min": 200,
+        "total_value": 6601703.63
+      },
+      {
+        "avg": 1941.7,
+        "date": "2026-06-24",
+        "median": 500.83,
+        "category": "basketball",
+        "listings": 2842,
+        "floor_min": 200,
+        "total_value": 6544936.67
+      },
+      {
+        "avg": 1944.98,
+        "date": "2026-06-25",
+        "median": 498.18,
+        "category": "basketball",
+        "listings": 2810,
+        "floor_min": 200,
+        "total_value": 6512886.91
+      },
+      {
+        "avg": 1972.79,
+        "date": "2026-06-26",
+        "median": 500,
+        "category": "basketball",
+        "listings": 2886,
+        "floor_min": 200,
+        "total_value": 6864998.38
+      },
+      {
+        "avg": 1977.98,
+        "date": "2026-06-27",
+        "median": 516.07,
+        "category": "basketball",
+        "listings": 2943,
+        "floor_min": 200,
+        "total_value": 7171401.18
+      },
+      {
+        "avg": 1984.38,
+        "date": "2026-06-28",
+        "median": 516.11,
+        "category": "basketball",
+        "listings": 2964,
+        "floor_min": 200,
+        "total_value": 7179682.66
+      },
+      {
+        "avg": 1965.07,
+        "date": "2026-06-29",
+        "median": 496.7,
+        "category": "basketball",
+        "listings": 3130,
+        "floor_min": 200,
+        "total_value": 7547801.23
+      },
+      {
+        "avg": 1969.02,
+        "date": "2026-06-30",
+        "median": 502.2,
+        "category": "basketball",
+        "listings": 3098,
+        "floor_min": 200,
+        "total_value": 7488560.78
+      },
+      {
+        "avg": 1981.15,
+        "date": "2026-07-01",
+        "median": 501.51,
+        "category": "basketball",
+        "listings": 3069,
+        "floor_min": 200,
+        "total_value": 7449197.6
+      },
+      {
+        "avg": 1993.82,
+        "date": "2026-07-02",
+        "median": 504.87,
+        "category": "basketball",
+        "listings": 3048,
+        "floor_min": 200,
+        "total_value": 7425814.71
+      },
+      {
+        "avg": 2002.54,
+        "date": "2026-07-03",
+        "median": 516.79,
+        "category": "basketball",
+        "listings": 3142,
+        "floor_min": 200,
+        "total_value": 7763456.67
+      },
+      {
+        "avg": 2002.53,
+        "date": "2026-07-04",
+        "median": 517.45,
+        "category": "basketball",
+        "listings": 3168,
+        "floor_min": 200,
+        "total_value": 7801462.9
+      },
+      {
+        "avg": 1998.25,
+        "date": "2026-07-05",
+        "median": 482.56,
+        "category": "basketball",
+        "listings": 3516,
+        "floor_min": 200,
+        "total_value": 8645959.44
+      },
+      {
+        "avg": 2030.16,
+        "date": "2026-07-06",
+        "median": 507.07,
+        "category": "basketball",
+        "listings": 3417,
+        "floor_min": 200,
+        "total_value": 8503440.19
+      },
+      {
+        "avg": 2030.19,
+        "date": "2026-07-07",
+        "median": 503.09,
+        "category": "basketball",
+        "listings": 3376,
+        "floor_min": 200,
+        "total_value": 8426863.07
+      },
+      {
+        "avg": 2033.65,
+        "date": "2026-07-08",
+        "median": 500.65,
+        "category": "basketball",
+        "listings": 3356,
+        "floor_min": 200,
+        "total_value": 8401667.13
+      },
+      {
+        "avg": 2043.8,
+        "date": "2026-07-09",
+        "median": 503.2,
+        "category": "basketball",
+        "listings": 3479,
+        "floor_min": 200,
+        "total_value": 8710150.71
+      },
+      {
+        "avg": 2042.3,
+        "date": "2026-07-10",
+        "median": 502.62,
+        "category": "basketball",
+        "listings": 3491,
+        "floor_min": 200,
+        "total_value": 8679531.66
+      },
+      {
+        "avg": 1978.22,
+        "date": "2026-07-11",
+        "median": 482.25,
+        "category": "basketball",
+        "listings": 3775,
+        "floor_min": 200,
+        "total_value": 9149257.43
+      },
+      {
+        "avg": 1997.04,
+        "date": "2026-07-12",
+        "median": 483.14,
+        "category": "basketball",
+        "listings": 3732,
+        "floor_min": 200,
+        "total_value": 9121080.5
+      },
+      {
+        "avg": 1993.12,
+        "date": "2026-07-13",
+        "median": 485.49,
+        "category": "basketball",
+        "listings": 3660,
+        "floor_min": 200,
+        "total_value": 8942491.61
+      },
+      {
+        "avg": 1997.13,
+        "date": "2026-07-14",
+        "median": 476.7,
+        "category": "basketball",
+        "listings": 3635,
+        "floor_min": 200,
+        "total_value": 8899958.99
+      },
+      {
+        "avg": 2011.08,
+        "date": "2026-07-15",
+        "median": 494.75,
+        "category": "basketball",
+        "listings": 3799,
+        "floor_min": 200,
+        "total_value": 9380837.53
+      },
+      {
+        "avg": 2007.24,
+        "date": "2026-07-16",
+        "median": 488.49,
+        "category": "basketball",
+        "listings": 3803,
+        "floor_min": 200,
+        "total_value": 9344404.68
+      },
+      {
+        "avg": 1963.42,
+        "date": "2026-07-17",
+        "median": 487.95,
+        "category": "basketball",
+        "listings": 4068,
+        "floor_min": 200,
+        "total_value": 9791051.79
+      },
+      {
+        "avg": 1971.74,
+        "date": "2026-07-18",
+        "median": 487.58,
+        "category": "basketball",
+        "listings": 4041,
+        "floor_min": 200,
+        "total_value": 9755795.74
+      },
+      {
+        "avg": 1974.92,
+        "date": "2026-07-19",
+        "median": 487.16,
+        "category": "basketball",
+        "listings": 4014,
+        "floor_min": 200,
+        "total_value": 9702177.77
+      },
+      {
+        "avg": 1979.96,
+        "date": "2026-07-20",
+        "median": 486.66,
+        "category": "basketball",
+        "listings": 3958,
+        "floor_min": 200,
+        "total_value": 9568169.51
+      },
+      {
+        "avg": 1983.18,
+        "date": "2026-07-21",
+        "median": 495,
+        "category": "basketball",
+        "listings": 4180,
+        "floor_min": 200,
+        "total_value": 10123684.04
+      },
+      {
+        "avg": 1976.23,
+        "date": "2026-07-22",
+        "median": 492.8,
+        "category": "basketball",
+        "listings": 4169,
+        "floor_min": 200,
+        "total_value": 10060054.74
+      },
+      {
+        "avg": 1879.53,
+        "date": "2026-07-23",
+        "median": 480.1,
+        "category": "basketball",
+        "listings": 4464,
+        "floor_min": 200,
+        "total_value": 10500744.83
+      },
+      {
+        "avg": 1885.14,
+        "date": "2026-07-24",
+        "median": 480.08,
+        "category": "basketball",
+        "listings": 4425,
+        "floor_min": 200,
+        "total_value": 10431178.31
+      },
+      {
+        "avg": 1889.82,
+        "date": "2026-07-25",
+        "median": 479.89,
+        "category": "basketball",
+        "listings": 4399,
+        "floor_min": 200,
+        "total_value": 10354101.58
+      },
+      {
+        "avg": 1894.3,
+        "date": "2026-07-26",
+        "median": 481.89,
+        "category": "basketball",
+        "listings": 4368,
+        "floor_min": 200,
+        "total_value": 10299057.1
+      },
+      {
+        "avg": 1918.11,
+        "date": "2026-07-27",
+        "median": 484.12,
+        "category": "basketball",
+        "listings": 4578,
+        "floor_min": 200,
+        "total_value": 10889369.31
+      },
+      {
+        "avg": 1920.94,
+        "date": "2026-07-28",
+        "median": 479.55,
+        "category": "basketball",
+        "listings": 4541,
+        "floor_min": 200,
+        "total_value": 10771750.14
+      },
+      {
+        "avg": 2000.17,
+        "date": "2026-07-29",
+        "median": 475.16,
+        "category": "basketball",
+        "listings": 4722,
+        "floor_min": 200,
+        "total_value": 11962896.07
+      },
+      {
+        "avg": 2013.42,
+        "date": "2026-07-30",
+        "median": 477.46,
+        "category": "basketball",
+        "listings": 4683,
+        "floor_min": 200,
+        "total_value": 11937721.73
+      },
+      {
+        "avg": 2022.76,
+        "date": "2026-07-31",
+        "median": 477.58,
+        "category": "basketball",
+        "listings": 4655,
+        "floor_min": 200,
+        "total_value": 11899484.78
+      },
+      {
+        "avg": 2029.56,
+        "date": "2026-08-01",
+        "median": 477.58,
+        "category": "basketball",
+        "listings": 4643,
+        "floor_min": 200,
+        "total_value": 11862965.8
+      },
+      {
+        "avg": 2034.81,
+        "date": "2026-08-02",
+        "median": 483.22,
+        "category": "basketball",
+        "listings": 4880,
+        "floor_min": 200,
+        "total_value": 12422337.06
+      },
+      {
+        "avg": 2036.2,
+        "date": "2026-08-03",
+        "median": 485.45,
+        "category": "basketball",
+        "listings": 4847,
+        "floor_min": 200,
+        "total_value": 12341813.45
+      },
+      {
+        "avg": 1993.92,
+        "date": "2026-08-04",
+        "median": 475.45,
+        "category": "basketball",
+        "listings": 5069,
+        "floor_min": 200,
+        "total_value": 12817477.92
+      },
+      {
+        "avg": 2005.82,
+        "date": "2026-08-05",
+        "median": 476.43,
+        "category": "basketball",
+        "listings": 5030,
+        "floor_min": 200,
+        "total_value": 12766338.04
+      },
+      {
+        "avg": 2007.29,
+        "date": "2026-08-06",
+        "median": 477.45,
+        "category": "basketball",
+        "listings": 5003,
+        "floor_min": 200,
+        "total_value": 12709028.6
+      },
+      {
+        "avg": 2012.27,
+        "date": "2026-08-07",
+        "median": 478.43,
+        "category": "basketball",
+        "listings": 4986,
+        "floor_min": 200,
+        "total_value": 12679710.6
+      },
+      {
+        "avg": 2016.83,
+        "date": "2026-08-08",
+        "median": 491.12,
+        "category": "basketball",
+        "listings": 5282,
+        "floor_min": 200,
+        "total_value": 13404579.41
+      },
+      {
+        "avg": 2019.56,
+        "date": "2026-08-09",
+        "median": 489.04,
+        "category": "basketball",
+        "listings": 5267,
+        "floor_min": 200,
+        "total_value": 13357868.75
+      },
+      {
+        "avg": 2016.69,
+        "date": "2026-08-10",
+        "median": 490.7,
+        "category": "basketball",
+        "listings": 5405,
+        "floor_min": 200,
+        "total_value": 13887533.64
+      },
+      {
+        "avg": 2018.88,
+        "date": "2026-08-11",
+        "median": 486.37,
+        "category": "basketball",
+        "listings": 5353,
+        "floor_min": 200,
+        "total_value": 13745858.71
+      },
+      {
+        "avg": 2013.9,
+        "date": "2026-08-12",
+        "median": 483.24,
+        "category": "basketball",
+        "listings": 5323,
+        "floor_min": 200,
+        "total_value": 13582188.34
+      },
+      {
+        "avg": 2017.4,
+        "date": "2026-08-13",
+        "median": 484.66,
+        "category": "basketball",
+        "listings": 5306,
+        "floor_min": 200,
+        "total_value": 13565820.84
+      },
+      {
+        "avg": 2056.11,
+        "date": "2026-08-14",
+        "median": 499.83,
+        "category": "basketball",
+        "listings": 5548,
+        "floor_min": 200,
+        "total_value": 14339529.84
+      },
+      {
+        "avg": 2036.88,
+        "date": "2026-08-15",
+        "median": 495.66,
+        "category": "basketball",
+        "listings": 5537,
+        "floor_min": 200,
+        "total_value": 14209931.23
+      },
+      {
+        "avg": 2016.55,
+        "date": "2026-08-16",
+        "median": 494.31,
+        "category": "basketball",
+        "listings": 5736,
+        "floor_min": 200,
+        "total_value": 14838638.39
+      },
+      {
+        "avg": 2032.24,
+        "date": "2026-08-17",
+        "median": 490.2,
+        "category": "basketball",
+        "listings": 5671,
+        "floor_min": 200,
+        "total_value": 14700714
+      },
+      {
+        "avg": 2035.96,
+        "date": "2026-08-18",
+        "median": 485.37,
+        "category": "basketball",
+        "listings": 5637,
+        "floor_min": 200,
+        "total_value": 14608905.26
+      },
+      {
+        "avg": 2037.89,
+        "date": "2026-08-19",
+        "median": 485.95,
+        "category": "basketball",
+        "listings": 5623,
+        "floor_min": 200,
+        "total_value": 14586656.78
+      },
+      {
+        "avg": 2034.91,
+        "date": "2026-08-20",
+        "median": 502.16,
+        "category": "basketball",
+        "listings": 5865,
+        "floor_min": 200,
+        "total_value": 15212994.99
+      },
+      {
+        "avg": 2037.23,
+        "date": "2026-08-21",
+        "median": 503.2,
+        "category": "basketball",
+        "listings": 5845,
+        "floor_min": 200,
+        "total_value": 15139805.79
+      },
+      {
+        "avg": 1976.33,
+        "date": "2026-08-22",
+        "median": 489.66,
+        "category": "basketball",
+        "listings": 6278,
+        "floor_min": 200,
+        "total_value": 15623299.06
+      },
+      {
+        "avg": 1989.59,
+        "date": "2026-08-23",
+        "median": 497.46,
+        "category": "basketball",
+        "listings": 6234,
+        "floor_min": 200,
+        "total_value": 15582185.04
+      },
+      {
+        "avg": 1998.76,
+        "date": "2026-08-24",
+        "median": 495.63,
+        "category": "basketball",
+        "listings": 6148,
+        "floor_min": 200,
+        "total_value": 15436704.31
+      },
+      {
+        "avg": 1999.86,
+        "date": "2026-08-25",
+        "median": 491.77,
+        "category": "basketball",
+        "listings": 6106,
+        "floor_min": 200,
+        "total_value": 15367509.75
+      },
+      {
+        "avg": 2000.5,
+        "date": "2026-08-26",
+        "median": 501.37,
+        "category": "basketball",
+        "listings": 6348,
+        "floor_min": 200,
+        "total_value": 15919411.74
+      },
+      {
+        "avg": 2001.44,
+        "date": "2026-08-27",
+        "median": 502.48,
+        "category": "basketball",
+        "listings": 6326,
+        "floor_min": 200,
+        "total_value": 15844339.35
+      },
+      {
+        "avg": 1987.04,
+        "date": "2026-08-28",
+        "median": 490.35,
+        "category": "basketball",
+        "listings": 6315,
+        "floor_min": 200,
+        "total_value": 15804892.59
+      },
+      {
+        "avg": 1985.07,
+        "date": "2026-08-29",
+        "median": 490.56,
+        "category": "basketball",
+        "listings": 6327,
+        "floor_min": 200,
+        "total_value": 15819208.6
+      },
+      {
+        "avg": 1987.07,
+        "date": "2026-08-30",
+        "median": 489.78,
+        "category": "basketball",
+        "listings": 6306,
+        "floor_min": 200,
+        "total_value": 15787213.89
+      },
+      {
+        "avg": 1988.33,
+        "date": "2026-08-31",
+        "median": 489.61,
+        "category": "basketball",
+        "listings": 6272,
+        "floor_min": 200,
+        "total_value": 15704736.23
+      },
+      {
+        "avg": 1989.14,
+        "date": "2026-09-01",
+        "median": 497.95,
+        "category": "basketball",
+        "listings": 6505,
+        "floor_min": 200,
+        "total_value": 16221513.13
+      }
+    ]
+  },
+  "floor_basketball": {
+    "as_of": "2026-09-01",
+    "categories": [
+      {
+        "avg": 1989.14,
+        "median": 497.95,
+        "category": "basketball",
+        "listings": 6505,
+        "floor_min": 200,
+        "total_value": 16221513.13
+      }
+    ]
+  },
+  "index_football": {
+    "series": [
+      {
+        "avg": 1046.46,
+        "date": "2026-06-03",
+        "median": 379.82,
+        "category": "football",
+        "listings": 1469,
+        "floor_min": 200,
+        "total_value": 3512069.84
+      },
+      {
+        "avg": 1050.6,
+        "date": "2026-06-04",
+        "median": 381.09,
+        "category": "football",
+        "listings": 1423,
+        "floor_min": 200,
+        "total_value": 3423925.83
+      },
+      {
+        "avg": 1052.92,
+        "date": "2026-06-05",
+        "median": 382.28,
+        "category": "football",
+        "listings": 1403,
+        "floor_min": 200,
+        "total_value": 3408138.11
+      },
+      {
+        "avg": 1072.96,
+        "date": "2026-06-06",
+        "median": 383.66,
+        "category": "football",
+        "listings": 1400,
+        "floor_min": 200,
+        "total_value": 3465707.11
+      },
+      {
+        "avg": 1147.38,
+        "date": "2026-06-07",
+        "median": 390.22,
+        "category": "football",
+        "listings": 1547,
+        "floor_min": 200,
+        "total_value": 3894203.66
+      },
+      {
+        "avg": 1130.04,
+        "date": "2026-06-08",
+        "median": 400.68,
+        "category": "football",
+        "listings": 1623,
+        "floor_min": 200,
+        "total_value": 4402874.49
+      },
+      {
+        "avg": 1214.33,
+        "date": "2026-06-09",
+        "median": 397.98,
+        "category": "football",
+        "listings": 1789,
+        "floor_min": 200,
+        "total_value": 4482850.16
+      },
+      {
+        "avg": 1230.63,
+        "date": "2026-06-10",
+        "median": 397.98,
+        "category": "football",
+        "listings": 1732,
+        "floor_min": 200,
+        "total_value": 4358153.19
+      },
+      {
+        "avg": 1174.71,
+        "date": "2026-06-11",
+        "median": 399.86,
+        "category": "football",
+        "listings": 1874,
+        "floor_min": 200,
+        "total_value": 4537438.14
+      },
+      {
+        "avg": 1175.48,
+        "date": "2026-06-12",
+        "median": 403.25,
+        "category": "football",
+        "listings": 1912,
+        "floor_min": 200,
+        "total_value": 4556784.21
+      },
+      {
+        "avg": 1176.54,
+        "date": "2026-06-13",
+        "median": 403.03,
+        "category": "football",
+        "listings": 1900,
+        "floor_min": 200,
+        "total_value": 4550937.96
+      },
+      {
+        "avg": 1180.4,
+        "date": "2026-06-14",
+        "median": 402.66,
+        "category": "football",
+        "listings": 1878,
+        "floor_min": 200,
+        "total_value": 4521428.72
+      },
+      {
+        "avg": 1231.32,
+        "date": "2026-06-15",
+        "median": 406.18,
+        "category": "football",
+        "listings": 1941,
+        "floor_min": 200,
+        "total_value": 4742152.21
+      },
+      {
+        "avg": 1255.69,
+        "date": "2026-06-16",
+        "median": 404.71,
+        "category": "football",
+        "listings": 1949,
+        "floor_min": 200,
+        "total_value": 4955007.99
+      },
+      {
+        "avg": 1253.42,
+        "date": "2026-06-17",
+        "median": 403.74,
+        "category": "football",
+        "listings": 1930,
+        "floor_min": 200,
+        "total_value": 4894588.92
+      },
+      {
+        "avg": 1167.57,
+        "date": "2026-06-18",
+        "median": 395.71,
+        "category": "football",
+        "listings": 2109,
+        "floor_min": 200,
+        "total_value": 5123593.31
+      },
+      {
+        "avg": 1132.27,
+        "date": "2026-06-19",
+        "median": 408.47,
+        "category": "football",
+        "listings": 2249,
+        "floor_min": 200,
+        "total_value": 5196464.84
+      },
+      {
+        "avg": 1140.71,
+        "date": "2026-06-20",
+        "median": 406.26,
+        "category": "football",
+        "listings": 2222,
+        "floor_min": 200,
+        "total_value": 5174290.95
+      },
+      {
+        "avg": 1136.41,
+        "date": "2026-06-21",
+        "median": 401.23,
+        "category": "football",
+        "listings": 2186,
+        "floor_min": 200,
+        "total_value": 5037994.22
+      },
+      {
+        "avg": 1168.29,
+        "date": "2026-06-22",
+        "median": 414.44,
+        "category": "football",
+        "listings": 2125,
+        "floor_min": 200,
+        "total_value": 4985147.03
+      },
+      {
+        "avg": 1148.47,
+        "date": "2026-06-23",
+        "median": 418.07,
+        "category": "football",
+        "listings": 2312,
+        "floor_min": 200,
+        "total_value": 5316101.44
+      },
+      {
+        "avg": 1142.64,
+        "date": "2026-06-24",
+        "median": 425.48,
+        "category": "football",
+        "listings": 2415,
+        "floor_min": 200,
+        "total_value": 5417653.17
+      },
+      {
+        "avg": 1145.41,
+        "date": "2026-06-25",
+        "median": 424.28,
+        "category": "football",
+        "listings": 2386,
+        "floor_min": 200,
+        "total_value": 5400786.6
+      },
+      {
+        "avg": 1148.68,
+        "date": "2026-06-26",
+        "median": 422.79,
+        "category": "football",
+        "listings": 2360,
+        "floor_min": 200,
+        "total_value": 5389475.17
+      },
+      {
+        "avg": 1148.4,
+        "date": "2026-06-27",
+        "median": 410.99,
+        "category": "football",
+        "listings": 2509,
+        "floor_min": 200,
+        "total_value": 5629415.85
+      },
+      {
+        "avg": 1146.62,
+        "date": "2026-06-28",
+        "median": 410.71,
+        "category": "football",
+        "listings": 2534,
+        "floor_min": 200,
+        "total_value": 5633431.07
+      },
+      {
+        "avg": 1158.05,
+        "date": "2026-06-29",
+        "median": 402.43,
+        "category": "football",
+        "listings": 2480,
+        "floor_min": 200,
+        "total_value": 5518804.52
+      },
+      {
+        "avg": 1142.09,
+        "date": "2026-06-30",
+        "median": 399.69,
+        "category": "football",
+        "listings": 2610,
+        "floor_min": 200,
+        "total_value": 5573472.31
+      },
+      {
+        "avg": 1141.12,
+        "date": "2026-07-01",
+        "median": 394.77,
+        "category": "football",
+        "listings": 2583,
+        "floor_min": 200,
+        "total_value": 5503719.69
+      },
+      {
+        "avg": 1135.67,
+        "date": "2026-07-02",
+        "median": 391.34,
+        "category": "football",
+        "listings": 2556,
+        "floor_min": 200,
+        "total_value": 5395792.96
+      },
+      {
+        "avg": 1145.92,
+        "date": "2026-07-03",
+        "median": 402.43,
+        "category": "football",
+        "listings": 2681,
+        "floor_min": 200,
+        "total_value": 5626510.39
+      },
+      {
+        "avg": 1146.6,
+        "date": "2026-07-04",
+        "median": 402.19,
+        "category": "football",
+        "listings": 2706,
+        "floor_min": 200,
+        "total_value": 5659662.28
+      },
+      {
+        "avg": 1067.42,
+        "date": "2026-07-05",
+        "median": 386.39,
+        "category": "football",
+        "listings": 2767,
+        "floor_min": 200,
+        "total_value": 5814825.43
+      },
+      {
+        "avg": 1083.16,
+        "date": "2026-07-06",
+        "median": 383.09,
+        "category": "football",
+        "listings": 2889,
+        "floor_min": 200,
+        "total_value": 5864368.58
+      },
+      {
+        "avg": 1091.37,
+        "date": "2026-07-07",
+        "median": 383.21,
+        "category": "football",
+        "listings": 2841,
+        "floor_min": 200,
+        "total_value": 5821800.86
+      },
+      {
+        "avg": 1096.1,
+        "date": "2026-07-08",
+        "median": 381.18,
+        "category": "football",
+        "listings": 2806,
+        "floor_min": 200,
+        "total_value": 5728601.14
+      },
+      {
+        "avg": 1110.03,
+        "date": "2026-07-09",
+        "median": 381.46,
+        "category": "football",
+        "listings": 2937,
+        "floor_min": 200,
+        "total_value": 5966746.98
+      },
+      {
+        "avg": 1106.2,
+        "date": "2026-07-10",
+        "median": 381.55,
+        "category": "football",
+        "listings": 2954,
+        "floor_min": 200,
+        "total_value": 5975224.01
+      },
+      {
+        "avg": 1109.47,
+        "date": "2026-07-11",
+        "median": 382.4,
+        "category": "football",
+        "listings": 2930,
+        "floor_min": 200,
+        "total_value": 5964195.79
+      },
+      {
+        "avg": 1098.68,
+        "date": "2026-07-12",
+        "median": 384.63,
+        "category": "football",
+        "listings": 3121,
+        "floor_min": 200,
+        "total_value": 6083683.67
+      },
+      {
+        "avg": 1087.4,
+        "date": "2026-07-13",
+        "median": 379.92,
+        "category": "football",
+        "listings": 3066,
+        "floor_min": 200,
+        "total_value": 5974281.09
+      },
+      {
+        "avg": 1094.15,
+        "date": "2026-07-14",
+        "median": 381.68,
+        "category": "football",
+        "listings": 3033,
+        "floor_min": 200,
+        "total_value": 5949682.61
+      },
+      {
+        "avg": 1122.79,
+        "date": "2026-07-15",
+        "median": 382.15,
+        "category": "football",
+        "listings": 3165,
+        "floor_min": 200,
+        "total_value": 6232779.39
+      },
+      {
+        "avg": 1125.87,
+        "date": "2026-07-16",
+        "median": 381.88,
+        "category": "football",
+        "listings": 3163,
+        "floor_min": 200,
+        "total_value": 6236828.45
+      },
+      {
+        "avg": 1126.29,
+        "date": "2026-07-17",
+        "median": 381.99,
+        "category": "football",
+        "listings": 3148,
+        "floor_min": 200,
+        "total_value": 6217058.72
+      },
+      {
+        "avg": 1113.99,
+        "date": "2026-07-18",
+        "median": 379.04,
+        "category": "football",
+        "listings": 3369,
+        "floor_min": 200,
+        "total_value": 6340175.3
+      },
+      {
+        "avg": 1115.18,
+        "date": "2026-07-19",
+        "median": 378.91,
+        "category": "football",
+        "listings": 3349,
+        "floor_min": 200,
+        "total_value": 6324550.84
+      },
+      {
+        "avg": 1117.57,
+        "date": "2026-07-20",
+        "median": 379.86,
+        "category": "football",
+        "listings": 3313,
+        "floor_min": 200,
+        "total_value": 6304320.36
+      },
+      {
+        "avg": 1134.01,
+        "date": "2026-07-21",
+        "median": 381.07,
+        "category": "football",
+        "listings": 3454,
+        "floor_min": 200,
+        "total_value": 6570643.82
+      },
+      {
+        "avg": 1135.81,
+        "date": "2026-07-22",
+        "median": 381.03,
+        "category": "football",
+        "listings": 3471,
+        "floor_min": 200,
+        "total_value": 6595604.64
+      },
+      {
+        "avg": 1137.73,
+        "date": "2026-07-23",
+        "median": 381.51,
+        "category": "football",
+        "listings": 3450,
+        "floor_min": 200,
+        "total_value": 6585090.67
+      },
+      {
+        "avg": 1121.69,
+        "date": "2026-07-24",
+        "median": 382.71,
+        "category": "football",
+        "listings": 3676,
+        "floor_min": 200,
+        "total_value": 6644529.64
+      },
+      {
+        "avg": 1122.96,
+        "date": "2026-07-25",
+        "median": 383,
+        "category": "football",
+        "listings": 3652,
+        "floor_min": 200,
+        "total_value": 6632672.52
+      },
+      {
+        "avg": 1123.01,
+        "date": "2026-07-26",
+        "median": 382.03,
+        "category": "football",
+        "listings": 3616,
+        "floor_min": 200,
+        "total_value": 6604805.69
+      },
+      {
+        "avg": 1154.35,
+        "date": "2026-07-27",
+        "median": 380.56,
+        "category": "football",
+        "listings": 3714,
+        "floor_min": 200,
+        "total_value": 6922531.36
+      },
+      {
+        "avg": 1154.53,
+        "date": "2026-07-28",
+        "median": 381.03,
+        "category": "football",
+        "listings": 3719,
+        "floor_min": 200,
+        "total_value": 6918749.46
+      },
+      {
+        "avg": 1156.03,
+        "date": "2026-07-29",
+        "median": 381.45,
+        "category": "football",
+        "listings": 3701,
+        "floor_min": 200,
+        "total_value": 6909684.51
+      },
+      {
+        "avg": 1145.84,
+        "date": "2026-07-30",
+        "median": 385.07,
+        "category": "football",
+        "listings": 3931,
+        "floor_min": 200,
+        "total_value": 6994649.83
+      },
+      {
+        "avg": 1142.45,
+        "date": "2026-07-31",
+        "median": 384.91,
+        "category": "football",
+        "listings": 3900,
+        "floor_min": 200,
+        "total_value": 6969650.99
+      },
+      {
+        "avg": 1142.96,
+        "date": "2026-08-01",
+        "median": 384.84,
+        "category": "football",
+        "listings": 3890,
+        "floor_min": 200,
+        "total_value": 6965272.44
+      },
+      {
+        "avg": 1154.41,
+        "date": "2026-08-02",
+        "median": 393.74,
+        "category": "football",
+        "listings": 4024,
+        "floor_min": 200,
+        "total_value": 7234399.29
+      },
+      {
+        "avg": 1156.59,
+        "date": "2026-08-03",
+        "median": 394.03,
+        "category": "football",
+        "listings": 4008,
+        "floor_min": 200,
+        "total_value": 7237992.42
+      },
+      {
+        "avg": 1154.02,
+        "date": "2026-08-04",
+        "median": 394.15,
+        "category": "football",
+        "listings": 3982,
+        "floor_min": 200,
+        "total_value": 7168944.02
+      },
+      {
+        "avg": 1143.67,
+        "date": "2026-08-05",
+        "median": 386.92,
+        "category": "football",
+        "listings": 4254,
+        "floor_min": 200,
+        "total_value": 7291157.59
+      },
+      {
+        "avg": 1145.02,
+        "date": "2026-08-06",
+        "median": 388.32,
+        "category": "football",
+        "listings": 4230,
+        "floor_min": 200,
+        "total_value": 7278572.1
+      },
+      {
+        "avg": 1143.26,
+        "date": "2026-08-07",
+        "median": 388.59,
+        "category": "football",
+        "listings": 4204,
+        "floor_min": 200,
+        "total_value": 7261690.49
+      },
+      {
+        "avg": 1154.4,
+        "date": "2026-08-08",
+        "median": 393.29,
+        "category": "football",
+        "listings": 4372,
+        "floor_min": 200,
+        "total_value": 7489151.29
+      },
+      {
+        "avg": 1154.74,
+        "date": "2026-08-09",
+        "median": 393.54,
+        "category": "football",
+        "listings": 4373,
+        "floor_min": 200,
+        "total_value": 7494076.8
+      },
+      {
+        "avg": 1157.22,
+        "date": "2026-08-10",
+        "median": 394.04,
+        "category": "football",
+        "listings": 4334,
+        "floor_min": 200,
+        "total_value": 7463320.81
+      },
+      {
+        "avg": 1146.17,
+        "date": "2026-08-11",
+        "median": 399.74,
+        "category": "football",
+        "listings": 4584,
+        "floor_min": 200,
+        "total_value": 7580751.02
+      },
+      {
+        "avg": 1147.16,
+        "date": "2026-08-12",
+        "median": 398.34,
+        "category": "football",
+        "listings": 4551,
+        "floor_min": 200,
+        "total_value": 7562905.37
+      },
+      {
+        "avg": 1148.23,
+        "date": "2026-08-13",
+        "median": 396.77,
+        "category": "football",
+        "listings": 4526,
+        "floor_min": 200,
+        "total_value": 7546079.6
+      },
+      {
+        "avg": 1222.72,
+        "date": "2026-08-14",
+        "median": 419.79,
+        "category": "football",
+        "listings": 4649,
+        "floor_min": 200,
+        "total_value": 8230917.54
+      },
+      {
+        "avg": 1219.48,
+        "date": "2026-08-15",
+        "median": 418.77,
+        "category": "football",
+        "listings": 4656,
+        "floor_min": 200,
+        "total_value": 8191969.66
+      },
+      {
+        "avg": 1220.55,
+        "date": "2026-08-16",
+        "median": 419.39,
+        "category": "football",
+        "listings": 4640,
+        "floor_min": 200,
+        "total_value": 8184474.45
+      },
+      {
+        "avg": 1223.37,
+        "date": "2026-08-17",
+        "median": 420.07,
+        "category": "football",
+        "listings": 4607,
+        "floor_min": 200,
+        "total_value": 8159653.45
+      },
+      {
+        "avg": 1219.77,
+        "date": "2026-08-18",
+        "median": 420.14,
+        "category": "football",
+        "listings": 4593,
+        "floor_min": 200,
+        "total_value": 8099935.7
+      },
+      {
+        "avg": 1219.27,
+        "date": "2026-08-19",
+        "median": 419.93,
+        "category": "football",
+        "listings": 4583,
+        "floor_min": 200,
+        "total_value": 8083855.44
+      },
+      {
+        "avg": 1233.17,
+        "date": "2026-08-20",
+        "median": 421.09,
+        "category": "football",
+        "listings": 4761,
+        "floor_min": 200,
+        "total_value": 8489938
+      },
+      {
+        "avg": 1227.53,
+        "date": "2026-08-21",
+        "median": 421.09,
+        "category": "football",
+        "listings": 4778,
+        "floor_min": 200,
+        "total_value": 8446345.55
+      },
+      {
+        "avg": 1228.23,
+        "date": "2026-08-22",
+        "median": 421.09,
+        "category": "football",
+        "listings": 4769,
+        "floor_min": 200,
+        "total_value": 8441583.43
+      },
+      {
+        "avg": 1150.16,
+        "date": "2026-08-23",
+        "median": 415.54,
+        "category": "football",
+        "listings": 5245,
+        "floor_min": 200,
+        "total_value": 9485667.12
+      },
+      {
+        "avg": 1177.26,
+        "date": "2026-08-24",
+        "median": 424.36,
+        "category": "football",
+        "listings": 5154,
+        "floor_min": 200,
+        "total_value": 9377247.83
+      },
+      {
+        "avg": 1185.27,
+        "date": "2026-08-25",
+        "median": 423.12,
+        "category": "football",
+        "listings": 5113,
+        "floor_min": 200,
+        "total_value": 9284450.1
+      },
+      {
+        "avg": 1189.29,
+        "date": "2026-08-26",
+        "median": 424.72,
+        "category": "football",
+        "listings": 5261,
+        "floor_min": 200,
+        "total_value": 9406976.54
+      },
+      {
+        "avg": 1193.63,
+        "date": "2026-08-27",
+        "median": 423.6,
+        "category": "football",
+        "listings": 5260,
+        "floor_min": 200,
+        "total_value": 9424496.95
+      },
+      {
+        "avg": 1196.09,
+        "date": "2026-08-28",
+        "median": 424,
+        "category": "football",
+        "listings": 5235,
+        "floor_min": 200,
+        "total_value": 9413034.34
+      },
+      {
+        "avg": 1119.89,
+        "date": "2026-08-29",
+        "median": 414.84,
+        "category": "football",
+        "listings": 5743,
+        "floor_min": 200,
+        "total_value": 10074159.57
+      },
+      {
+        "avg": 1124.95,
+        "date": "2026-08-30",
+        "median": 413.04,
+        "category": "football",
+        "listings": 5696,
+        "floor_min": 200,
+        "total_value": 10004103.84
+      },
+      {
+        "avg": 1150.84,
+        "date": "2026-08-31",
+        "median": 410.73,
+        "category": "football",
+        "listings": 5585,
+        "floor_min": 200,
+        "total_value": 9873670.69
+      },
+      {
+        "avg": 1170.05,
+        "date": "2026-09-01",
+        "median": 413.5,
+        "category": "football",
+        "listings": 5699,
+        "floor_min": 200,
+        "total_value": 10164569.68
+      }
+    ]
+  },
+  "floor_football": {
+    "as_of": "2026-09-01",
+    "categories": [
+      {
+        "avg": 1170.05,
+        "median": 413.5,
+        "category": "football",
+        "listings": 5699,
+        "floor_min": 200,
+        "total_value": 10164569.68
+      }
+    ]
+  },
+  "index_baseball": {
+    "series": [
+      {
+        "avg": 811.84,
+        "date": "2026-06-03",
+        "median": 357.55,
+        "category": "baseball",
+        "listings": 1406,
+        "floor_min": 200,
+        "total_value": 3984899.17
+      },
+      {
+        "avg": 816.65,
+        "date": "2026-06-04",
+        "median": 351.29,
+        "category": "baseball",
+        "listings": 1512,
+        "floor_min": 200,
+        "total_value": 3991455.46
+      },
+      {
+        "avg": 830.7,
+        "date": "2026-06-05",
+        "median": 356.91,
+        "category": "baseball",
+        "listings": 1625,
+        "floor_min": 200,
+        "total_value": 4016941.07
+      },
+      {
+        "avg": 826.72,
+        "date": "2026-06-06",
+        "median": 355.22,
+        "category": "baseball",
+        "listings": 1604,
+        "floor_min": 200,
+        "total_value": 3978542.6
+      },
+      {
+        "avg": 852.95,
+        "date": "2026-06-07",
+        "median": 353.88,
+        "category": "baseball",
+        "listings": 1739,
+        "floor_min": 200,
+        "total_value": 4531077.31
+      },
+      {
+        "avg": 861.52,
+        "date": "2026-06-08",
+        "median": 348.36,
+        "category": "baseball",
+        "listings": 1679,
+        "floor_min": 200,
+        "total_value": 4441505.5
+      },
+      {
+        "avg": 866.69,
+        "date": "2026-06-09",
+        "median": 361.88,
+        "category": "baseball",
+        "listings": 1866,
+        "floor_min": 200,
+        "total_value": 4984975.88
+      },
+      {
+        "avg": 862.75,
+        "date": "2026-06-10",
+        "median": 353.64,
+        "category": "baseball",
+        "listings": 2106,
+        "floor_min": 200,
+        "total_value": 5197528.85
+      },
+      {
+        "avg": 863.45,
+        "date": "2026-06-11",
+        "median": 349.95,
+        "category": "baseball",
+        "listings": 2056,
+        "floor_min": 200,
+        "total_value": 5084822.81
+      },
+      {
+        "avg": 875.9,
+        "date": "2026-06-12",
+        "median": 350.01,
+        "category": "baseball",
+        "listings": 2289,
+        "floor_min": 200,
+        "total_value": 5640110.53
+      },
+      {
+        "avg": 880.71,
+        "date": "2026-06-13",
+        "median": 352.96,
+        "category": "baseball",
+        "listings": 2339,
+        "floor_min": 200,
+        "total_value": 5645545.49
+      },
+      {
+        "avg": 887.62,
+        "date": "2026-06-14",
+        "median": 352.79,
+        "category": "baseball",
+        "listings": 2303,
+        "floor_min": 200,
+        "total_value": 5579668.04
+      },
+      {
+        "avg": 889.35,
+        "date": "2026-06-15",
+        "median": 350.44,
+        "category": "baseball",
+        "listings": 2320,
+        "floor_min": 200,
+        "total_value": 5530739.21
+      },
+      {
+        "avg": 882.88,
+        "date": "2026-06-16",
+        "median": 350.61,
+        "category": "baseball",
+        "listings": 2311,
+        "floor_min": 200,
+        "total_value": 5517085.19
+      },
+      {
+        "avg": 885.11,
+        "date": "2026-06-17",
+        "median": 351.01,
+        "category": "baseball",
+        "listings": 2281,
+        "floor_min": 200,
+        "total_value": 5487622.76
+      },
+      {
+        "avg": 885.8,
+        "date": "2026-06-18",
+        "median": 350.73,
+        "category": "baseball",
+        "listings": 2273,
+        "floor_min": 200,
+        "total_value": 5468240.77
+      },
+      {
+        "avg": 857.82,
+        "date": "2026-06-19",
+        "median": 350.93,
+        "category": "baseball",
+        "listings": 2496,
+        "floor_min": 200,
+        "total_value": 6011382.37
+      },
+      {
+        "avg": 880.42,
+        "date": "2026-06-20",
+        "median": 355.23,
+        "category": "baseball",
+        "listings": 2675,
+        "floor_min": 200,
+        "total_value": 6124176.82
+      },
+      {
+        "avg": 877.92,
+        "date": "2026-06-21",
+        "median": 355.41,
+        "category": "baseball",
+        "listings": 2644,
+        "floor_min": 200,
+        "total_value": 6096516.14
+      },
+      {
+        "avg": 883.87,
+        "date": "2026-06-22",
+        "median": 354.33,
+        "category": "baseball",
+        "listings": 2591,
+        "floor_min": 200,
+        "total_value": 6028244.83
+      },
+      {
+        "avg": 884.36,
+        "date": "2026-06-23",
+        "median": 353.69,
+        "category": "baseball",
+        "listings": 2553,
+        "floor_min": 200,
+        "total_value": 5951331.08
+      },
+      {
+        "avg": 849.1,
+        "date": "2026-06-24",
+        "median": 354.3,
+        "category": "baseball",
+        "listings": 2730,
+        "floor_min": 200,
+        "total_value": 6236412.37
+      },
+      {
+        "avg": 845.72,
+        "date": "2026-06-25",
+        "median": 352.45,
+        "category": "baseball",
+        "listings": 2840,
+        "floor_min": 200,
+        "total_value": 6179003.79
+      },
+      {
+        "avg": 849.94,
+        "date": "2026-06-26",
+        "median": 353.67,
+        "category": "baseball",
+        "listings": 2813,
+        "floor_min": 200,
+        "total_value": 6160744.01
+      },
+      {
+        "avg": 860.67,
+        "date": "2026-06-27",
+        "median": 356.11,
+        "category": "baseball",
+        "listings": 2957,
+        "floor_min": 200,
+        "total_value": 6622192.32
+      },
+      {
+        "avg": 860.85,
+        "date": "2026-06-28",
+        "median": 355.62,
+        "category": "baseball",
+        "listings": 2952,
+        "floor_min": 200,
+        "total_value": 6607374.99
+      },
+      {
+        "avg": 859.2,
+        "date": "2026-06-29",
+        "median": 353.67,
+        "category": "baseball",
+        "listings": 2889,
+        "floor_min": 200,
+        "total_value": 6505560.59
+      },
+      {
+        "avg": 847.14,
+        "date": "2026-06-30",
+        "median": 354.16,
+        "category": "baseball",
+        "listings": 3060,
+        "floor_min": 200,
+        "total_value": 6974245.23
+      },
+      {
+        "avg": 858.19,
+        "date": "2026-07-01",
+        "median": 359.17,
+        "category": "baseball",
+        "listings": 3186,
+        "floor_min": 200,
+        "total_value": 7050104.53
+      },
+      {
+        "avg": 861.97,
+        "date": "2026-07-02",
+        "median": 359.45,
+        "category": "baseball",
+        "listings": 3170,
+        "floor_min": 200,
+        "total_value": 7040711.87
+      },
+      {
+        "avg": 870.84,
+        "date": "2026-07-03",
+        "median": 360.29,
+        "category": "baseball",
+        "listings": 3294,
+        "floor_min": 200,
+        "total_value": 7450774.52
+      },
+      {
+        "avg": 870.78,
+        "date": "2026-07-04",
+        "median": 360.07,
+        "category": "baseball",
+        "listings": 3300,
+        "floor_min": 200,
+        "total_value": 7382401.45
+      },
+      {
+        "avg": 867,
+        "date": "2026-07-05",
+        "median": 360.07,
+        "category": "baseball",
+        "listings": 3288,
+        "floor_min": 200,
+        "total_value": 7280786.44
+      },
+      {
+        "avg": 854.94,
+        "date": "2026-07-06",
+        "median": 364.66,
+        "category": "baseball",
+        "listings": 3385,
+        "floor_min": 200,
+        "total_value": 7516242.65
+      },
+      {
+        "avg": 852.31,
+        "date": "2026-07-07",
+        "median": 359.82,
+        "category": "baseball",
+        "listings": 3495,
+        "floor_min": 200,
+        "total_value": 7513117.83
+      },
+      {
+        "avg": 856.03,
+        "date": "2026-07-08",
+        "median": 360.74,
+        "category": "baseball",
+        "listings": 3460,
+        "floor_min": 200,
+        "total_value": 7467907.55
+      },
+      {
+        "avg": 849.3,
+        "date": "2026-07-09",
+        "median": 358.38,
+        "category": "baseball",
+        "listings": 3599,
+        "floor_min": 200,
+        "total_value": 7598485.91
+      },
+      {
+        "avg": 844.59,
+        "date": "2026-07-10",
+        "median": 357.67,
+        "category": "baseball",
+        "listings": 3598,
+        "floor_min": 200,
+        "total_value": 7571819.08
+      },
+      {
+        "avg": 844.11,
+        "date": "2026-07-11",
+        "median": 357.64,
+        "category": "baseball",
+        "listings": 3587,
+        "floor_min": 200,
+        "total_value": 7548292.32
+      },
+      {
+        "avg": 828.01,
+        "date": "2026-07-12",
+        "median": 359.38,
+        "category": "baseball",
+        "listings": 3747,
+        "floor_min": 200,
+        "total_value": 7819374
+      },
+      {
+        "avg": 835.82,
+        "date": "2026-07-13",
+        "median": 360.43,
+        "category": "baseball",
+        "listings": 3864,
+        "floor_min": 200,
+        "total_value": 7863600.69
+      },
+      {
+        "avg": 837.55,
+        "date": "2026-07-14",
+        "median": 357.76,
+        "category": "baseball",
+        "listings": 3826,
+        "floor_min": 200,
+        "total_value": 7804091.73
+      },
+      {
+        "avg": 839.22,
+        "date": "2026-07-15",
+        "median": 357.57,
+        "category": "baseball",
+        "listings": 3952,
+        "floor_min": 200,
+        "total_value": 7963314.29
+      },
+      {
+        "avg": 842.64,
+        "date": "2026-07-16",
+        "median": 357.96,
+        "category": "baseball",
+        "listings": 3951,
+        "floor_min": 200,
+        "total_value": 7973069.28
+      },
+      {
+        "avg": 840.59,
+        "date": "2026-07-17",
+        "median": 357.31,
+        "category": "baseball",
+        "listings": 3932,
+        "floor_min": 200,
+        "total_value": 7935015.92
+      },
+      {
+        "avg": 829.54,
+        "date": "2026-07-18",
+        "median": 359.18,
+        "category": "baseball",
+        "listings": 4095,
+        "floor_min": 200,
+        "total_value": 8392783.75
+      },
+      {
+        "avg": 834.65,
+        "date": "2026-07-19",
+        "median": 359.99,
+        "category": "baseball",
+        "listings": 4278,
+        "floor_min": 200,
+        "total_value": 8487695.2
+      },
+      {
+        "avg": 839.02,
+        "date": "2026-07-20",
+        "median": 359.83,
+        "category": "baseball",
+        "listings": 4188,
+        "floor_min": 200,
+        "total_value": 8423937.41
+      },
+      {
+        "avg": 845.49,
+        "date": "2026-07-21",
+        "median": 359.16,
+        "category": "baseball",
+        "listings": 4292,
+        "floor_min": 200,
+        "total_value": 8559141.96
+      },
+      {
+        "avg": 846.41,
+        "date": "2026-07-22",
+        "median": 359.3,
+        "category": "baseball",
+        "listings": 4292,
+        "floor_min": 200,
+        "total_value": 8540090.21
+      },
+      {
+        "avg": 846.94,
+        "date": "2026-07-23",
+        "median": 359.45,
+        "category": "baseball",
+        "listings": 4268,
+        "floor_min": 200,
+        "total_value": 8525234.98
+      },
+      {
+        "avg": 837.37,
+        "date": "2026-07-24",
+        "median": 358.73,
+        "category": "baseball",
+        "listings": 4414,
+        "floor_min": 200,
+        "total_value": 9009480.03
+      },
+      {
+        "avg": 837.82,
+        "date": "2026-07-25",
+        "median": 359.59,
+        "category": "baseball",
+        "listings": 4622,
+        "floor_min": 200,
+        "total_value": 9115124.62
+      },
+      {
+        "avg": 835,
+        "date": "2026-07-26",
+        "median": 359.59,
+        "category": "baseball",
+        "listings": 4600,
+        "floor_min": 200,
+        "total_value": 9016092.63
+      },
+      {
+        "avg": 834.05,
+        "date": "2026-07-27",
+        "median": 359.03,
+        "category": "baseball",
+        "listings": 4605,
+        "floor_min": 200,
+        "total_value": 9004054.8
+      },
+      {
+        "avg": 835.58,
+        "date": "2026-07-28",
+        "median": 358.87,
+        "category": "baseball",
+        "listings": 4597,
+        "floor_min": 200,
+        "total_value": 8976020.66
+      },
+      {
+        "avg": 836.27,
+        "date": "2026-07-29",
+        "median": 358.92,
+        "category": "baseball",
+        "listings": 4583,
+        "floor_min": 200,
+        "total_value": 8970718.2
+      },
+      {
+        "avg": 828.29,
+        "date": "2026-07-30",
+        "median": 355.57,
+        "category": "baseball",
+        "listings": 4680,
+        "floor_min": 200,
+        "total_value": 9434131.64
+      },
+      {
+        "avg": 816.29,
+        "date": "2026-07-31",
+        "median": 355.43,
+        "category": "baseball",
+        "listings": 4939,
+        "floor_min": 200,
+        "total_value": 9555492.61
+      },
+      {
+        "avg": 818.1,
+        "date": "2026-08-01",
+        "median": 355.72,
+        "category": "baseball",
+        "listings": 4923,
+        "floor_min": 200,
+        "total_value": 9528018.62
+      },
+      {
+        "avg": 819.97,
+        "date": "2026-08-02",
+        "median": 356.64,
+        "category": "baseball",
+        "listings": 5023,
+        "floor_min": 200,
+        "total_value": 9763256.06
+      },
+      {
+        "avg": 818.77,
+        "date": "2026-08-03",
+        "median": 356.07,
+        "category": "baseball",
+        "listings": 4983,
+        "floor_min": 200,
+        "total_value": 9661565.94
+      },
+      {
+        "avg": 821.76,
+        "date": "2026-08-04",
+        "median": 356.21,
+        "category": "baseball",
+        "listings": 4955,
+        "floor_min": 200,
+        "total_value": 9646215.35
+      },
+      {
+        "avg": 864.53,
+        "date": "2026-08-05",
+        "median": 360.61,
+        "category": "baseball",
+        "listings": 5070,
+        "floor_min": 200,
+        "total_value": 10396379.08
+      },
+      {
+        "avg": 846.59,
+        "date": "2026-08-06",
+        "median": 357.81,
+        "category": "baseball",
+        "listings": 5358,
+        "floor_min": 200,
+        "total_value": 10448268.68
+      },
+      {
+        "avg": 849.65,
+        "date": "2026-08-07",
+        "median": 356.99,
+        "category": "baseball",
+        "listings": 5326,
+        "floor_min": 200,
+        "total_value": 10418127.2
+      },
+      {
+        "avg": 850.49,
+        "date": "2026-08-08",
+        "median": 356.91,
+        "category": "baseball",
+        "listings": 5421,
+        "floor_min": 200,
+        "total_value": 10464073.64
+      },
+      {
+        "avg": 852.01,
+        "date": "2026-08-09",
+        "median": 356.52,
+        "category": "baseball",
+        "listings": 5427,
+        "floor_min": 200,
+        "total_value": 10483466.66
+      },
+      {
+        "avg": 853.02,
+        "date": "2026-08-10",
+        "median": 356.35,
+        "category": "baseball",
+        "listings": 5377,
+        "floor_min": 200,
+        "total_value": 10330179.53
+      },
+      {
+        "avg": 853.28,
+        "date": "2026-08-11",
+        "median": 356.54,
+        "category": "baseball",
+        "listings": 5350,
+        "floor_min": 200,
+        "total_value": 10311722.09
+      },
+      {
+        "avg": 837.79,
+        "date": "2026-08-12",
+        "median": 355.62,
+        "category": "baseball",
+        "listings": 5614,
+        "floor_min": 200,
+        "total_value": 10457333.3
+      },
+      {
+        "avg": 837.55,
+        "date": "2026-08-13",
+        "median": 355.78,
+        "category": "baseball",
+        "listings": 5579,
+        "floor_min": 200,
+        "total_value": 10380408.61
+      },
+      {
+        "avg": 847.5,
+        "date": "2026-08-14",
+        "median": 356.02,
+        "category": "baseball",
+        "listings": 5687,
+        "floor_min": 200,
+        "total_value": 10830618
+      },
+      {
+        "avg": 847.66,
+        "date": "2026-08-15",
+        "median": 355.95,
+        "category": "baseball",
+        "listings": 5693,
+        "floor_min": 200,
+        "total_value": 10839937.45
+      },
+      {
+        "avg": 847.94,
+        "date": "2026-08-16",
+        "median": 355.98,
+        "category": "baseball",
+        "listings": 5682,
+        "floor_min": 200,
+        "total_value": 10834889.03
+      },
+      {
+        "avg": 843.53,
+        "date": "2026-08-17",
+        "median": 356.81,
+        "category": "baseball",
+        "listings": 5701,
+        "floor_min": 200,
+        "total_value": 10842887.33
+      },
+      {
+        "avg": 838.57,
+        "date": "2026-08-18",
+        "median": 353.45,
+        "category": "baseball",
+        "listings": 6001,
+        "floor_min": 200,
+        "total_value": 11012155.28
+      },
+      {
+        "avg": 840.53,
+        "date": "2026-08-19",
+        "median": 353.68,
+        "category": "baseball",
+        "listings": 5973,
+        "floor_min": 200,
+        "total_value": 11013286.8
+      },
+      {
+        "avg": 835.53,
+        "date": "2026-08-20",
+        "median": 354.35,
+        "category": "baseball",
+        "listings": 6089,
+        "floor_min": 200,
+        "total_value": 11237023.18
+      },
+      {
+        "avg": 834.98,
+        "date": "2026-08-21",
+        "median": 354.67,
+        "category": "baseball",
+        "listings": 6078,
+        "floor_min": 200,
+        "total_value": 11236998.09
+      },
+      {
+        "avg": 834.72,
+        "date": "2026-08-22",
+        "median": 353.96,
+        "category": "baseball",
+        "listings": 6067,
+        "floor_min": 200,
+        "total_value": 11231647.61
+      },
+      {
+        "avg": 834.77,
+        "date": "2026-08-23",
+        "median": 356.82,
+        "category": "baseball",
+        "listings": 6235,
+        "floor_min": 200,
+        "total_value": 11662645.51
+      },
+      {
+        "avg": 822.16,
+        "date": "2026-08-24",
+        "median": 353.38,
+        "category": "baseball",
+        "listings": 6499,
+        "floor_min": 200,
+        "total_value": 11704202.58
+      },
+      {
+        "avg": 824.33,
+        "date": "2026-08-25",
+        "median": 353.57,
+        "category": "baseball",
+        "listings": 6450,
+        "floor_min": 200,
+        "total_value": 11608641.99
+      },
+      {
+        "avg": 828.12,
+        "date": "2026-08-26",
+        "median": 353.82,
+        "category": "baseball",
+        "listings": 6606,
+        "floor_min": 200,
+        "total_value": 11972512.23
+      },
+      {
+        "avg": 828.79,
+        "date": "2026-08-27",
+        "median": 353.08,
+        "category": "baseball",
+        "listings": 6571,
+        "floor_min": 200,
+        "total_value": 11931948.43
+      },
+      {
+        "avg": 829.24,
+        "date": "2026-08-28",
+        "median": 353.25,
+        "category": "baseball",
+        "listings": 6547,
+        "floor_min": 200,
+        "total_value": 11911189.84
+      },
+      {
+        "avg": 826.43,
+        "date": "2026-08-29",
+        "median": 354.57,
+        "category": "baseball",
+        "listings": 6720,
+        "floor_min": 200,
+        "total_value": 12341137.38
+      },
+      {
+        "avg": 826.38,
+        "date": "2026-08-30",
+        "median": 353.05,
+        "category": "baseball",
+        "listings": 7066,
+        "floor_min": 200,
+        "total_value": 12574994.34
+      },
+      {
+        "avg": 829.92,
+        "date": "2026-08-31",
+        "median": 353.28,
+        "category": "baseball",
+        "listings": 6966,
+        "floor_min": 200,
+        "total_value": 12477534.55
+      },
+      {
+        "avg": 836.53,
+        "date": "2026-09-01",
+        "median": 353.46,
+        "category": "baseball",
+        "listings": 7104,
+        "floor_min": 200,
+        "total_value": 12745149.25
+      }
+    ]
+  },
+  "floor_baseball": {
+    "as_of": "2026-09-01",
+    "categories": [
+      {
+        "avg": 836.53,
+        "median": 353.46,
+        "category": "baseball",
+        "listings": 7104,
+        "floor_min": 200,
+        "total_value": 12745149.25
+      }
+    ]
+  },
+  "index_pokemon": {
+    "series": [
+      {
+        "avg": 1421.83,
+        "date": "2026-06-03",
+        "median": 576,
+        "category": "pokemon",
+        "listings": 643,
+        "floor_min": 200,
+        "total_value": 1049854.58
+      },
+      {
+        "avg": 1421.41,
+        "date": "2026-06-04",
+        "median": 563.5,
+        "category": "pokemon",
+        "listings": 624,
+        "floor_min": 200,
+        "total_value": 1017618.41
+      },
+      {
+        "avg": 1429.35,
+        "date": "2026-06-05",
+        "median": 563.37,
+        "category": "pokemon",
+        "listings": 613,
+        "floor_min": 200,
+        "total_value": 1000086.08
+      },
+      {
+        "avg": 1424.43,
+        "date": "2026-06-06",
+        "median": 560.62,
+        "category": "pokemon",
+        "listings": 607,
+        "floor_min": 200,
+        "total_value": 992032.08
+      },
+      {
+        "avg": 1427.26,
+        "date": "2026-06-07",
+        "median": 559.75,
+        "category": "pokemon",
+        "listings": 600,
+        "floor_min": 200,
+        "total_value": 973852.58
+      },
+      {
+        "avg": 1679.8,
+        "date": "2026-06-08",
+        "median": 642.75,
+        "category": "pokemon",
+        "listings": 708,
+        "floor_min": 200,
+        "total_value": 1426566.79
+      },
+      {
+        "avg": 1693.31,
+        "date": "2026-06-09",
+        "median": 630.75,
+        "category": "pokemon",
+        "listings": 690,
+        "floor_min": 200,
+        "total_value": 1396711.32
+      },
+      {
+        "avg": 1646.29,
+        "date": "2026-06-10",
+        "median": 633.74,
+        "category": "pokemon",
+        "listings": 833,
+        "floor_min": 200,
+        "total_value": 1612948.18
+      },
+      {
+        "avg": 1621.54,
+        "date": "2026-06-11",
+        "median": 641.62,
+        "category": "pokemon",
+        "listings": 783,
+        "floor_min": 200,
+        "total_value": 1504290.99
+      },
+      {
+        "avg": 1602.96,
+        "date": "2026-06-12",
+        "median": 638.37,
+        "category": "pokemon",
+        "listings": 759,
+        "floor_min": 200,
+        "total_value": 1454404.31
+      },
+      {
+        "avg": 1605.02,
+        "date": "2026-06-13",
+        "median": 631.98,
+        "category": "pokemon",
+        "listings": 754,
+        "floor_min": 200,
+        "total_value": 1445005.43
+      },
+      {
+        "avg": 1615.92,
+        "date": "2026-06-14",
+        "median": 635.41,
+        "category": "pokemon",
+        "listings": 746,
+        "floor_min": 200,
+        "total_value": 1441009.43
+      },
+      {
+        "avg": 1620.54,
+        "date": "2026-06-15",
+        "median": 632.28,
+        "category": "pokemon",
+        "listings": 725,
+        "floor_min": 200,
+        "total_value": 1391519.49
+      },
+      {
+        "avg": 1620.74,
+        "date": "2026-06-16",
+        "median": 628.11,
+        "category": "pokemon",
+        "listings": 779,
+        "floor_min": 200,
+        "total_value": 1415433.41
+      },
+      {
+        "avg": 1576.97,
+        "date": "2026-06-17",
+        "median": 649.99,
+        "category": "pokemon",
+        "listings": 848,
+        "floor_min": 200,
+        "total_value": 1584207.38
+      },
+      {
+        "avg": 1768.51,
+        "date": "2026-06-18",
+        "median": 703.99,
+        "category": "pokemon",
+        "listings": 943,
+        "floor_min": 200,
+        "total_value": 2015640.48
+      },
+      {
+        "avg": 1715,
+        "date": "2026-06-19",
+        "median": 688.54,
+        "category": "pokemon",
+        "listings": 921,
+        "floor_min": 200,
+        "total_value": 1948031.49
+      },
+      {
+        "avg": 1719.41,
+        "date": "2026-06-20",
+        "median": 684.37,
+        "category": "pokemon",
+        "listings": 914,
+        "floor_min": 200,
+        "total_value": 1937731.44
+      },
+      {
+        "avg": 1703.02,
+        "date": "2026-06-21",
+        "median": 671.23,
+        "category": "pokemon",
+        "listings": 923,
+        "floor_min": 200,
+        "total_value": 1922396.16
+      },
+      {
+        "avg": 1706.7,
+        "date": "2026-06-22",
+        "median": 682.28,
+        "category": "pokemon",
+        "listings": 888,
+        "floor_min": 200,
+        "total_value": 1782281.87
+      },
+      {
+        "avg": 1880.58,
+        "date": "2026-06-23",
+        "median": 725.41,
+        "category": "pokemon",
+        "listings": 983,
+        "floor_min": 200,
+        "total_value": 2325693.79
+      },
+      {
+        "avg": 1897.28,
+        "date": "2026-06-24",
+        "median": 743.74,
+        "category": "pokemon",
+        "listings": 959,
+        "floor_min": 200,
+        "total_value": 2271602.79
+      },
+      {
+        "avg": 1910.42,
+        "date": "2026-06-25",
+        "median": 742.49,
+        "category": "pokemon",
+        "listings": 938,
+        "floor_min": 200,
+        "total_value": 2204730.9
+      },
+      {
+        "avg": 1917.03,
+        "date": "2026-06-26",
+        "median": 742.49,
+        "category": "pokemon",
+        "listings": 930,
+        "floor_min": 200,
+        "total_value": 2194030.9
+      },
+      {
+        "avg": 1925.3,
+        "date": "2026-06-27",
+        "median": 743.5,
+        "category": "pokemon",
+        "listings": 924,
+        "floor_min": 200,
+        "total_value": 2184862.4
+      },
+      {
+        "avg": 1926.7,
+        "date": "2026-06-28",
+        "median": 742.14,
+        "category": "pokemon",
+        "listings": 921,
+        "floor_min": 200,
+        "total_value": 2179995.82
+      },
+      {
+        "avg": 2131.74,
+        "date": "2026-06-29",
+        "median": 765.03,
+        "category": "pokemon",
+        "listings": 1051,
+        "floor_min": 200,
+        "total_value": 2586608.38
+      },
+      {
+        "avg": 2152.98,
+        "date": "2026-06-30",
+        "median": 796.28,
+        "category": "pokemon",
+        "listings": 1031,
+        "floor_min": 200,
+        "total_value": 2549622.76
+      },
+      {
+        "avg": 2157.34,
+        "date": "2026-07-01",
+        "median": 799.4,
+        "category": "pokemon",
+        "listings": 1029,
+        "floor_min": 200,
+        "total_value": 2548642.76
+      },
+      {
+        "avg": 2142.17,
+        "date": "2026-07-02",
+        "median": 790.03,
+        "category": "pokemon",
+        "listings": 1012,
+        "floor_min": 200,
+        "total_value": 2494307.76
+      },
+      {
+        "avg": 2151.21,
+        "date": "2026-07-03",
+        "median": 800.62,
+        "category": "pokemon",
+        "listings": 1004,
+        "floor_min": 200,
+        "total_value": 2478990.77
+      },
+      {
+        "avg": 2155.52,
+        "date": "2026-07-04",
+        "median": 800.61,
+        "category": "pokemon",
+        "listings": 995,
+        "floor_min": 200,
+        "total_value": 2468545.77
+      },
+      {
+        "avg": 2392.8,
+        "date": "2026-07-05",
+        "median": 821.7,
+        "category": "pokemon",
+        "listings": 1152,
+        "floor_min": 200,
+        "total_value": 2915049.28
+      },
+      {
+        "avg": 2397.62,
+        "date": "2026-07-06",
+        "median": 810.92,
+        "category": "pokemon",
+        "listings": 1094,
+        "floor_min": 200,
+        "total_value": 2781218.21
+      },
+      {
+        "avg": 2399.97,
+        "date": "2026-07-07",
+        "median": 808.86,
+        "category": "pokemon",
+        "listings": 1079,
+        "floor_min": 200,
+        "total_value": 2729832.71
+      },
+      {
+        "avg": 2406.95,
+        "date": "2026-07-08",
+        "median": 806.97,
+        "category": "pokemon",
+        "listings": 1075,
+        "floor_min": 200,
+        "total_value": 2721822.71
+      },
+      {
+        "avg": 2410.18,
+        "date": "2026-07-09",
+        "median": 805.14,
+        "category": "pokemon",
+        "listings": 1065,
+        "floor_min": 200,
+        "total_value": 2696127.71
+      },
+      {
+        "avg": 2410.52,
+        "date": "2026-07-10",
+        "median": 805.06,
+        "category": "pokemon",
+        "listings": 1062,
+        "floor_min": 200,
+        "total_value": 2692468.71
+      },
+      {
+        "avg": 2337.94,
+        "date": "2026-07-11",
+        "median": 839.69,
+        "category": "pokemon",
+        "listings": 1226,
+        "floor_min": 200,
+        "total_value": 3105697.3
+      },
+      {
+        "avg": 2342.87,
+        "date": "2026-07-12",
+        "median": 837.22,
+        "category": "pokemon",
+        "listings": 1213,
+        "floor_min": 200,
+        "total_value": 3077443.8
+      },
+      {
+        "avg": 2335.97,
+        "date": "2026-07-13",
+        "median": 819.15,
+        "category": "pokemon",
+        "listings": 1166,
+        "floor_min": 200,
+        "total_value": 2922155.8
+      },
+      {
+        "avg": 2342.45,
+        "date": "2026-07-14",
+        "median": 811.67,
+        "category": "pokemon",
+        "listings": 1153,
+        "floor_min": 200,
+        "total_value": 2889095.8
+      },
+      {
+        "avg": 2347.9,
+        "date": "2026-07-15",
+        "median": 813.24,
+        "category": "pokemon",
+        "listings": 1150,
+        "floor_min": 200,
+        "total_value": 2884830.8
+      },
+      {
+        "avg": 2359.15,
+        "date": "2026-07-16",
+        "median": 814.81,
+        "category": "pokemon",
+        "listings": 1138,
+        "floor_min": 200,
+        "total_value": 2864643.3
+      },
+      {
+        "avg": 2294.28,
+        "date": "2026-07-17",
+        "median": 828.45,
+        "category": "pokemon",
+        "listings": 1301,
+        "floor_min": 200,
+        "total_value": 3267835.22
+      },
+      {
+        "avg": 2291.39,
+        "date": "2026-07-18",
+        "median": 827.5,
+        "category": "pokemon",
+        "listings": 1290,
+        "floor_min": 200,
+        "total_value": 3237825.94
+      },
+      {
+        "avg": 2289.62,
+        "date": "2026-07-19",
+        "median": 827.49,
+        "category": "pokemon",
+        "listings": 1280,
+        "floor_min": 200,
+        "total_value": 3207569.95
+      },
+      {
+        "avg": 2294.57,
+        "date": "2026-07-20",
+        "median": 833.89,
+        "category": "pokemon",
+        "listings": 1256,
+        "floor_min": 200,
+        "total_value": 3140189.56
+      },
+      {
+        "avg": 2310,
+        "date": "2026-07-21",
+        "median": 836.45,
+        "category": "pokemon",
+        "listings": 1231,
+        "floor_min": 200,
+        "total_value": 3102160.56
+      },
+      {
+        "avg": 2322.02,
+        "date": "2026-07-22",
+        "median": 843.2,
+        "category": "pokemon",
+        "listings": 1224,
+        "floor_min": 200,
+        "total_value": 3095023.57
+      },
+      {
+        "avg": 2225.41,
+        "date": "2026-07-23",
+        "median": 834.37,
+        "category": "pokemon",
+        "listings": 1379,
+        "floor_min": 200,
+        "total_value": 3381829.39
+      },
+      {
+        "avg": 2230.7,
+        "date": "2026-07-24",
+        "median": 827.37,
+        "category": "pokemon",
+        "listings": 1361,
+        "floor_min": 200,
+        "total_value": 3346643.39
+      },
+      {
+        "avg": 2231.34,
+        "date": "2026-07-25",
+        "median": 827.25,
+        "category": "pokemon",
+        "listings": 1354,
+        "floor_min": 200,
+        "total_value": 3328200.89
+      },
+      {
+        "avg": 2235.71,
+        "date": "2026-07-26",
+        "median": 827.07,
+        "category": "pokemon",
+        "listings": 1341,
+        "floor_min": 200,
+        "total_value": 3296381.88
+      },
+      {
+        "avg": 2264.92,
+        "date": "2026-07-27",
+        "median": 851.25,
+        "category": "pokemon",
+        "listings": 1305,
+        "floor_min": 200,
+        "total_value": 3237736.72
+      },
+      {
+        "avg": 2264.92,
+        "date": "2026-07-28",
+        "median": 851.25,
+        "category": "pokemon",
+        "listings": 1305,
+        "floor_min": 200,
+        "total_value": 3237736.72
+      },
+      {
+        "avg": 2198.27,
+        "date": "2026-07-29",
+        "median": 872.19,
+        "category": "pokemon",
+        "listings": 1488,
+        "floor_min": 200,
+        "total_value": 3729202.31
+      },
+      {
+        "avg": 2209.77,
+        "date": "2026-07-30",
+        "median": 861.63,
+        "category": "pokemon",
+        "listings": 1453,
+        "floor_min": 200,
+        "total_value": 3629466.46
+      },
+      {
+        "avg": 2207.21,
+        "date": "2026-07-31",
+        "median": 861.63,
+        "category": "pokemon",
+        "listings": 1436,
+        "floor_min": 200,
+        "total_value": 3576716.86
+      },
+      {
+        "avg": 2206.31,
+        "date": "2026-08-01",
+        "median": 858.18,
+        "category": "pokemon",
+        "listings": 1432,
+        "floor_min": 200,
+        "total_value": 3556033.1
+      },
+      {
+        "avg": 2220.44,
+        "date": "2026-08-02",
+        "median": 860.4,
+        "category": "pokemon",
+        "listings": 1419,
+        "floor_min": 200,
+        "total_value": 3537157.68
+      },
+      {
+        "avg": 2229.66,
+        "date": "2026-08-03",
+        "median": 878.36,
+        "category": "pokemon",
+        "listings": 1391,
+        "floor_min": 200,
+        "total_value": 3477754.14
+      },
+      {
+        "avg": 2209.2,
+        "date": "2026-08-04",
+        "median": 869.97,
+        "category": "pokemon",
+        "listings": 1544,
+        "floor_min": 200,
+        "total_value": 3913846.1
+      },
+      {
+        "avg": 2214.33,
+        "date": "2026-08-05",
+        "median": 884.62,
+        "category": "pokemon",
+        "listings": 1536,
+        "floor_min": 200,
+        "total_value": 3904684.09
+      },
+      {
+        "avg": 2194.05,
+        "date": "2026-08-06",
+        "median": 872,
+        "category": "pokemon",
+        "listings": 1518,
+        "floor_min": 200,
+        "total_value": 3818260.59
+      },
+      {
+        "avg": 2196.79,
+        "date": "2026-08-07",
+        "median": 869.73,
+        "category": "pokemon",
+        "listings": 1504,
+        "floor_min": 200,
+        "total_value": 3775665.76
+      },
+      {
+        "avg": 2200.36,
+        "date": "2026-08-08",
+        "median": 868.49,
+        "category": "pokemon",
+        "listings": 1496,
+        "floor_min": 200,
+        "total_value": 3760505.76
+      },
+      {
+        "avg": 2198.42,
+        "date": "2026-08-09",
+        "median": 868.49,
+        "category": "pokemon",
+        "listings": 1490,
+        "floor_min": 200,
+        "total_value": 3741031.34
+      },
+      {
+        "avg": 2202.26,
+        "date": "2026-08-10",
+        "median": 912.64,
+        "category": "pokemon",
+        "listings": 1579,
+        "floor_min": 200,
+        "total_value": 4012557.3
+      },
+      {
+        "avg": 2215.63,
+        "date": "2026-08-11",
+        "median": 910.82,
+        "category": "pokemon",
+        "listings": 1563,
+        "floor_min": 200,
+        "total_value": 3993581.8
+      },
+      {
+        "avg": 2218.37,
+        "date": "2026-08-12",
+        "median": 910.82,
+        "category": "pokemon",
+        "listings": 1561,
+        "floor_min": 200,
+        "total_value": 3992267.8
+      },
+      {
+        "avg": 2185.15,
+        "date": "2026-08-13",
+        "median": 885.82,
+        "category": "pokemon",
+        "listings": 1543,
+        "floor_min": 200,
+        "total_value": 3870652.8
+      },
+      {
+        "avg": 2191.29,
+        "date": "2026-08-14",
+        "median": 910.57,
+        "category": "pokemon",
+        "listings": 1535,
+        "floor_min": 200,
+        "total_value": 3860373.8
+      },
+      {
+        "avg": 2194.82,
+        "date": "2026-08-15",
+        "median": 910.82,
+        "category": "pokemon",
+        "listings": 1533,
+        "floor_min": 200,
+        "total_value": 3858273.8
+      },
+      {
+        "avg": 2151.98,
+        "date": "2026-08-16",
+        "median": 886.62,
+        "category": "pokemon",
+        "listings": 1687,
+        "floor_min": 200,
+        "total_value": 4233830.28
+      },
+      {
+        "avg": 2175.56,
+        "date": "2026-08-17",
+        "median": 896.62,
+        "category": "pokemon",
+        "listings": 1621,
+        "floor_min": 200,
+        "total_value": 4084908.47
+      },
+      {
+        "avg": 2163.96,
+        "date": "2026-08-18",
+        "median": 896.16,
+        "category": "pokemon",
+        "listings": 1613,
+        "floor_min": 200,
+        "total_value": 4044117.47
+      },
+      {
+        "avg": 2167.35,
+        "date": "2026-08-19",
+        "median": 896.5,
+        "category": "pokemon",
+        "listings": 1610,
+        "floor_min": 200,
+        "total_value": 4040537.47
+      },
+      {
+        "avg": 2169.42,
+        "date": "2026-08-20",
+        "median": 897.5,
+        "category": "pokemon",
+        "listings": 1602,
+        "floor_min": 200,
+        "total_value": 4021845.47
+      },
+      {
+        "avg": 2162.79,
+        "date": "2026-08-21",
+        "median": 897,
+        "category": "pokemon",
+        "listings": 1598,
+        "floor_min": 200,
+        "total_value": 4009286.53
+      },
+      {
+        "avg": 2210.7,
+        "date": "2026-08-22",
+        "median": 899.57,
+        "category": "pokemon",
+        "listings": 1784,
+        "floor_min": 200,
+        "total_value": 4700516.33
+      },
+      {
+        "avg": 2195.82,
+        "date": "2026-08-23",
+        "median": 899.75,
+        "category": "pokemon",
+        "listings": 1776,
+        "floor_min": 200,
+        "total_value": 4642677.26
+      },
+      {
+        "avg": 2203.66,
+        "date": "2026-08-24",
+        "median": 898.62,
+        "category": "pokemon",
+        "listings": 1734,
+        "floor_min": 200,
+        "total_value": 4559753.27
+      },
+      {
+        "avg": 2201.58,
+        "date": "2026-08-25",
+        "median": 898.62,
+        "category": "pokemon",
+        "listings": 1721,
+        "floor_min": 200,
+        "total_value": 4517743.8
+      },
+      {
+        "avg": 2205.42,
+        "date": "2026-08-26",
+        "median": 898.62,
+        "category": "pokemon",
+        "listings": 1717,
+        "floor_min": 200,
+        "total_value": 4515273.8
+      },
+      {
+        "avg": 2204.08,
+        "date": "2026-08-27",
+        "median": 911.7,
+        "category": "pokemon",
+        "listings": 1693,
+        "floor_min": 200,
+        "total_value": 4443548.8
+      },
+      {
+        "avg": 2151.28,
+        "date": "2026-08-28",
+        "median": 875,
+        "category": "pokemon",
+        "listings": 1888,
+        "floor_min": 200,
+        "total_value": 4886324.98
+      },
+      {
+        "avg": 2155.18,
+        "date": "2026-08-29",
+        "median": 875,
+        "category": "pokemon",
+        "listings": 1882,
+        "floor_min": 200,
+        "total_value": 4880144.79
+      },
+      {
+        "avg": 2155.27,
+        "date": "2026-08-30",
+        "median": 875,
+        "category": "pokemon",
+        "listings": 1869,
+        "floor_min": 200,
+        "total_value": 4843874.24
+      },
+      {
+        "avg": 2162.53,
+        "date": "2026-08-31",
+        "median": 891.83,
+        "category": "pokemon",
+        "listings": 1843,
+        "floor_min": 200,
+        "total_value": 4767711.8
+      },
+      {
+        "avg": 2168.69,
+        "date": "2026-09-01",
+        "median": 899.99,
+        "category": "pokemon",
+        "listings": 1827,
+        "floor_min": 200,
+        "total_value": 4725984.8
+      }
+    ]
+  },
+  "floor_pokemon": {
+    "as_of": "2026-09-01",
+    "categories": [
+      {
+        "avg": 2168.69,
+        "median": 899.99,
+        "category": "pokemon",
+        "listings": 1827,
+        "floor_min": 200,
+        "total_value": 4725984.8
+      }
+    ]
+  }
+}
