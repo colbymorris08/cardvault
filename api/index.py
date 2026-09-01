@@ -276,3 +276,4 @@ async def cert_lookup(cert: str = Query(..., min_length=4)):
         "description": f"{card_info['year']} {card_info['brand']} {card_info['player']} #{card_info['card_number']} PSA {card_info['grade']}".strip(),
         "valuation": valuation,
     }
+# v2
