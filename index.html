@@ -26,10 +26,14 @@ input{font-family:inherit}
 
 /* Hero Search */
 .hero{padding:44px 0 12px;text-align:center}
-.search-form{display:flex;gap:10px;max-width:720px;margin:0 auto}
-.search-input{flex:1;padding:16px 22px;border-radius:14px;border:2px solid var(--border);background:var(--card);color:var(--text);font-size:1.05rem;outline:none;transition:border-color .2s,box-shadow .2s}
+.search-form{display:flex;gap:10px;max-width:720px;margin:0 auto;flex-wrap:wrap}
+.name-row{display:flex;gap:10px;flex:1;min-width:280px}
+.search-input{flex:1;padding:14px 18px;border-radius:12px;border:2px solid var(--border);background:var(--card);color:var(--text);font-size:1rem;outline:none;transition:border-color .2s,box-shadow .2s}
 .search-input:focus{border-color:var(--green);box-shadow:0 0 0 4px rgba(34,197,94,.1)}
 .search-input::placeholder{color:#4a5568}
+.search-input-half{flex:1;padding:14px 18px;border-radius:12px;border:2px solid var(--border);background:var(--card);color:var(--text);font-size:1rem;outline:none;transition:border-color .2s,box-shadow .2s}
+.search-input-half:focus{border-color:var(--green);box-shadow:0 0 0 4px rgba(34,197,94,.1)}
+.search-input-half::placeholder{color:#4a5568}
 .search-btn{padding:16px 32px;border-radius:14px;border:none;background:var(--green);color:#000;font-weight:700;font-size:1rem;transition:opacity .15s}
 .search-btn:hover{opacity:.85}
 .search-btn:disabled{opacity:.5;cursor:not-allowed}
@@ -191,9 +195,14 @@ input{font-family:inherit}
   <!-- Hero Search -->
   <section class="hero">
     <form class="search-form" id="searchForm">
-      <input class="search-input" id="searchInput" type="text" placeholder="Search player, set, year... (e.g. Doncic Prizm 2018)" autocomplete="off" required>
+      <div class="name-row">
+        <input class="search-input-half" id="firstName" type="text" placeholder="First Name (e.g. Luka)" autocomplete="off">
+        <input class="search-input-half" id="lastName" type="text" placeholder="Last Name (e.g. Doncic)" autocomplete="off" required>
+      </div>
+      <input class="search-input" id="searchExtra" type="text" placeholder="Set, year, or keywords (optional — e.g. Prizm 2018)" autocomplete="off">
       <button class="search-btn" type="submit" id="searchBtn">Search</button>
     </form>
+    <div style="text-align:center;font-size:12px;color:#4a5568;margin-top:6px">Enter player/artist name, then use filters below to narrow to your exact card.</div>
 
     <!-- Breadcrumb -->
     <div class="breadcrumb-bar" id="breadcrumbBar">
@@ -271,7 +280,9 @@ input{font-family:inherit}
   let lastApiGradeLadder = [];
 
   const form = $('searchForm');
-  const input = $('searchInput');
+  const firstNameInput = $('firstName');
+  const lastNameInput = $('lastName');
+  const extraInput = $('searchExtra');
   const btn = $('searchBtn');
   const resultEl = $('searchResult');
   const filtersPanel = $('filtersPanel');
@@ -369,8 +380,11 @@ input{font-family:inherit}
   /* ── Search ── */
   form.addEventListener('submit', function(e) {
     e.preventDefault();
-    var q = input.value.trim();
-    if (!q) return;
+    var first = firstNameInput.value.trim();
+    var last = lastNameInput.value.trim();
+    var extra = extraInput.value.trim();
+    if (!last) return;
+    var q = [first, last, extra].filter(Boolean).join(' ');
     baseQuery = q;
     activeFilters.brands.clear();
     activeFilters.variants.clear();
@@ -449,6 +463,7 @@ input{font-family:inherit}
 
     h += '<div class="stats-grid">';
     h += statBox('Fair Value', d.fair_value != null ? fmt.format(d.fair_value) : '—');
+    h += statBox('FMV Confidence', d.confidence != null ? d.confidence + '%' : '—', d.confidence > 60 ? 'var(--green)' : d.confidence > 30 ? 'var(--gold)' : 'var(--red)');
     h += statBox('Avg Price', d.avg_price != null ? fmt.format(d.avg_price) : '—');
     h += buyScoreBox(d.buy_score, scoreColor);
     h += statBox('90-Day Sales', d.sales_90d != null ? fmtNum.format(d.sales_90d) : '—');
@@ -656,7 +671,9 @@ input{font-family:inherit}
       card.addEventListener('click', function() {
         var label = this.getAttribute('data-label');
         if (label) {
-          input.value = label;
+          firstNameInput.value = '';
+          lastNameInput.value = label;
+          extraInput.value = '';
           baseQuery = label;
           activeFilters.brands.clear();
           activeFilters.variants.clear();
