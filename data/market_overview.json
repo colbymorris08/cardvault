@@ -2,243 +2,234 @@
   "movers": {
     "movers": [
       {
-        "n": 73,
-        "label": "soccer-rookie",
-        "category": "soccer",
-        "prev_avg": 471.78,
-        "direction": "down",
-        "pct_change": -27.66,
-        "current_avg": 341.27
-      },
-      {
-        "n": 502,
-        "label": "yugioh",
-        "category": "yugioh",
-        "prev_avg": 716.05,
-        "direction": "flat",
-        "pct_change": 26.7,
-        "current_avg": 907.27
-      },
-      {
-        "n": 509,
-        "label": "brady",
-        "category": "football",
-        "prev_avg": 9895.64,
-        "direction": "up",
-        "pct_change": 5.61,
-        "current_avg": 10450.44
-      },
-      {
-        "n": 352,
-        "label": "naruto",
-        "category": "tcg",
-        "prev_avg": 1116.53,
-        "direction": "down",
-        "pct_change": -5.1,
-        "current_avg": 1059.55
-      },
-      {
-        "n": 376,
-        "label": "marvel",
-        "category": "misc",
-        "prev_avg": 1639.53,
-        "direction": "down",
-        "pct_change": -4.28,
-        "current_avg": 1569.36
-      },
-      {
-        "n": 155,
-        "label": "gpk",
-        "category": "misc",
-        "prev_avg": 902.84,
-        "direction": "down",
-        "pct_change": -3.44,
-        "current_avg": 871.76
-      },
-      {
-        "n": 82,
-        "label": "altuve",
-        "category": "baseball",
-        "prev_avg": 736.56,
-        "direction": "down",
-        "pct_change": -2.92,
-        "current_avg": 715.06
-      },
-      {
-        "n": 2808,
-        "label": "football-auto",
-        "category": "football",
-        "prev_avg": 1105.77,
-        "direction": "up",
-        "pct_change": 2.14,
-        "current_avg": 1129.4
-      },
-      {
-        "n": 1132,
-        "label": "jordan",
-        "category": "basketball",
-        "prev_avg": 7081.14,
-        "direction": "up",
-        "pct_change": 1.83,
-        "current_avg": 7210.91
-      },
-      {
-        "n": 303,
-        "label": "bonds",
-        "category": "baseball",
-        "prev_avg": 608.56,
-        "direction": "down",
-        "pct_change": -1.62,
-        "current_avg": 598.71
-      },
-      {
-        "n": 200,
-        "label": "onepiece",
-        "category": "tcg",
-        "prev_avg": 731.43,
-        "direction": "up",
-        "pct_change": -1.6,
-        "current_avg": 719.71
-      },
-      {
-        "n": 711,
-        "label": "golf",
-        "category": "golf",
-        "prev_avg": 1895.42,
-        "direction": "flat",
-        "pct_change": 1.44,
-        "current_avg": 1922.64
-      },
-      {
-        "n": 338,
-        "label": "caleb",
-        "category": "football",
-        "prev_avg": 416.28,
-        "direction": "down",
-        "pct_change": -1.17,
-        "current_avg": 411.41
-      },
-      {
-        "n": 57,
-        "label": "neymar",
-        "category": "soccer",
-        "prev_avg": 1234.87,
-        "direction": "up",
-        "pct_change": 1.15,
-        "current_avg": 1249.02
-      },
-      {
-        "n": 2782,
-        "label": "vintage",
+        "n": 190,
+        "label": "pele",
         "category": "vintage",
-        "prev_avg": 1510.59,
+        "prev_avg": 1841.35,
         "direction": "down",
-        "pct_change": -1.02,
-        "current_avg": 1495.25
+        "pct_change": -5.99,
+        "current_avg": 1731.08
       },
       {
-        "n": 443,
+        "n": 2751,
+        "label": "highend",
+        "category": "highend",
+        "prev_avg": 2419.08,
+        "direction": "flat",
+        "pct_change": -3.87,
+        "current_avg": 2325.35
+      },
+      {
+        "n": 1286,
+        "label": "soccer-auto",
+        "category": "soccer",
+        "prev_avg": 1728.43,
+        "direction": "down",
+        "pct_change": -2.96,
+        "current_avg": 1677.23
+      },
+      {
+        "n": 1050,
+        "label": "wnba",
+        "category": "wnba",
+        "prev_avg": 1274.35,
+        "direction": "flat",
+        "pct_change": 2.62,
+        "current_avg": 1307.7
+      },
+      {
+        "n": 454,
         "label": "ruth",
         "category": "vintage",
-        "prev_avg": 8493.01,
+        "prev_avg": 8576.08,
         "direction": "up",
-        "pct_change": 0.98,
-        "current_avg": 8576.08
-      },
-      {
-        "n": 138,
-        "label": "fthomas",
-        "category": "baseball",
-        "prev_avg": 544.52,
-        "direction": "up",
-        "pct_change": 0.91,
-        "current_avg": 549.49
-      },
-      {
-        "n": 824,
-        "label": "mahomes",
-        "category": "football",
-        "prev_avg": 3053.61,
-        "direction": "down",
-        "pct_change": -0.87,
-        "current_avg": 3026.95
+        "pct_change": 2.42,
+        "current_avg": 8783.63
       },
       {
         "n": 154,
-        "label": "giannis",
-        "category": "basketball",
-        "prev_avg": 431.83,
+        "label": "mtg-lotus",
+        "category": "magic",
+        "prev_avg": 11909.03,
+        "direction": "up",
+        "pct_change": 1.27,
+        "current_avg": 12060.58
+      },
+      {
+        "n": 1075,
+        "label": "ohtani",
+        "category": "baseball",
+        "prev_avg": 8924.07,
         "direction": "down",
-        "pct_change": -0.85,
-        "current_avg": 428.14
+        "pct_change": -1.14,
+        "current_avg": 8822.33
       },
       {
-        "n": 467,
-        "label": "dbz",
+        "n": 611,
+        "label": "ufc",
+        "category": "combat",
+        "prev_avg": 992.31,
+        "direction": "down",
+        "pct_change": -1.11,
+        "current_avg": 981.28
+      },
+      {
+        "n": 120,
+        "label": "baseball-rookie",
+        "category": "baseball",
+        "prev_avg": 554.1,
+        "direction": "down",
+        "pct_change": -1.05,
+        "current_avg": 548.3
+      },
+      {
+        "n": 951,
+        "label": "messi",
+        "category": "soccer",
+        "prev_avg": 3301.93,
+        "direction": "up",
+        "pct_change": 0.99,
+        "current_avg": 3334.5
+      },
+      {
+        "n": 134,
+        "label": "beckham",
+        "category": "soccer",
+        "prev_avg": 793.78,
+        "direction": "up",
+        "pct_change": 0.98,
+        "current_avg": 801.55
+      },
+      {
+        "n": 348,
+        "label": "naruto",
         "category": "tcg",
-        "prev_avg": 661.98,
+        "prev_avg": 1059.55,
         "direction": "up",
-        "pct_change": -0.75,
-        "current_avg": 657
+        "pct_change": 0.83,
+        "current_avg": 1068.39
       },
       {
-        "n": 63,
-        "label": "tyreek",
-        "category": "football",
-        "prev_avg": 350.75,
+        "n": 1010,
+        "label": "pokemon-psa10",
+        "category": "pokemon",
+        "prev_avg": 2911.7,
         "direction": "up",
-        "pct_change": 0.68,
-        "current_avg": 353.14
+        "pct_change": 0.79,
+        "current_avg": 2934.6
       },
       {
-        "n": 385,
-        "label": "starwars",
-        "category": "misc",
-        "prev_avg": 855,
-        "direction": "up",
-        "pct_change": 0.63,
-        "current_avg": 860.37
+        "n": 3075,
+        "label": "basketball-auto",
+        "category": "basketball",
+        "prev_avg": 1300.22,
+        "direction": "down",
+        "pct_change": -0.69,
+        "current_avg": 1291.29
       },
       {
-        "n": 112,
-        "label": "marino",
-        "category": "football",
-        "prev_avg": 678.58,
-        "direction": "up",
-        "pct_change": 0.63,
-        "current_avg": 682.85
-      },
-      {
-        "n": 271,
-        "label": "hank",
-        "category": "vintage",
-        "prev_avg": 467.85,
+        "n": 125,
+        "label": "mbappe",
+        "category": "soccer",
+        "prev_avg": 531.19,
         "direction": "up",
         "pct_change": 0.62,
-        "current_avg": 470.76
+        "current_avg": 534.46
       },
       {
-        "n": 302,
-        "label": "spongebob",
-        "category": "misc",
-        "prev_avg": 3311.92,
+        "n": 371,
+        "label": "trout",
+        "category": "baseball",
+        "prev_avg": 680.24,
+        "direction": "down",
+        "pct_change": -0.61,
+        "current_avg": 676.07
+      },
+      {
+        "n": 165,
+        "label": "maradona",
+        "category": "vintage",
+        "prev_avg": 1882.74,
         "direction": "up",
-        "pct_change": 0.59,
-        "current_avg": 3331.36
+        "pct_change": 0.56,
+        "current_avg": 1893.29
+      },
+      {
+        "n": 922,
+        "label": "mantle",
+        "category": "vintage",
+        "prev_avg": 667.03,
+        "direction": "up",
+        "pct_change": -0.53,
+        "current_avg": 663.5
+      },
+      {
+        "n": 198,
+        "label": "onepiece",
+        "category": "tcg",
+        "prev_avg": 719.71,
+        "direction": "flat",
+        "pct_change": 0.52,
+        "current_avg": 723.42
+      },
+      {
+        "n": 2752,
+        "label": "vintage",
+        "category": "vintage",
+        "prev_avg": 1495.25,
+        "direction": "up",
+        "pct_change": -0.48,
+        "current_avg": 1488.03
+      },
+      {
+        "n": 494,
+        "label": "pokemon-bgs10",
+        "category": "pokemon",
+        "prev_avg": 3439.27,
+        "direction": "down",
+        "pct_change": 0.46,
+        "current_avg": 3455.15
+      },
+      {
+        "n": 2821,
+        "label": "football-auto",
+        "category": "football",
+        "prev_avg": 1129.4,
+        "direction": "up",
+        "pct_change": 0.46,
+        "current_avg": 1134.62
+      },
+      {
+        "n": 1129,
+        "label": "jordan",
+        "category": "basketball",
+        "prev_avg": 7210.91,
+        "direction": "down",
+        "pct_change": -0.45,
+        "current_avg": 7178.42
+      },
+      {
+        "n": 2494,
+        "label": "baseball-auto",
+        "category": "baseball",
+        "prev_avg": 1024.77,
+        "direction": "down",
+        "pct_change": -0.4,
+        "current_avg": 1020.68
+      },
+      {
+        "n": 129,
+        "label": "yordan",
+        "category": "baseball",
+        "prev_avg": 448.29,
+        "direction": "up",
+        "pct_change": 0.39,
+        "current_avg": 450.02
       }
     ]
   },
   "index_basketball": {
     "series": [
-      {
-        "avg": 1977.98,
-        "date": "2026-06-27",
-        "median": 516.07,
-        "category": "basketball",
-        "listings": 2943,
-        "floor_min": 200,
-        "total_value": 7171401.18
-      },
       {
         "avg": 1984.38,
         "date": "2026-06-28",
@@ -1048,33 +1039,33 @@
         "listings": 7887,
         "floor_min": 200,
         "total_value": 19948591.23
+      },
+      {
+        "avg": 2055.02,
+        "date": "2026-09-26",
+        "median": 504.21,
+        "category": "basketball",
+        "listings": 7860,
+        "floor_min": 200,
+        "total_value": 19834951.62
       }
     ]
   },
   "floor_basketball": {
-    "as_of": "2026-09-25",
+    "as_of": "2026-09-26",
     "categories": [
       {
-        "avg": 2056.99,
-        "median": 504.42,
+        "avg": 2055.02,
+        "median": 504.21,
         "category": "basketball",
-        "listings": 7887,
+        "listings": 7860,
         "floor_min": 200,
-        "total_value": 19948591.23
+        "total_value": 19834951.62
       }
     ]
   },
   "index_football": {
     "series": [
-      {
-        "avg": 1148.4,
-        "date": "2026-06-27",
-        "median": 410.99,
-        "category": "football",
-        "listings": 2509,
-        "floor_min": 200,
-        "total_value": 5629415.85
-      },
       {
         "avg": 1146.62,
         "date": "2026-06-28",
@@ -1884,33 +1875,33 @@
         "listings": 6931,
         "floor_min": 200,
         "total_value": 12383343.85
+      },
+      {
+        "avg": 1148.55,
+        "date": "2026-09-26",
+        "median": 387.94,
+        "category": "football",
+        "listings": 6941,
+        "floor_min": 200,
+        "total_value": 12411168.49
       }
     ]
   },
   "floor_football": {
-    "as_of": "2026-09-25",
+    "as_of": "2026-09-26",
     "categories": [
       {
-        "avg": 1148.2,
+        "avg": 1148.55,
         "median": 387.94,
         "category": "football",
-        "listings": 6931,
+        "listings": 6941,
         "floor_min": 200,
-        "total_value": 12383343.85
+        "total_value": 12411168.49
       }
     ]
   },
   "index_baseball": {
     "series": [
-      {
-        "avg": 860.67,
-        "date": "2026-06-27",
-        "median": 356.11,
-        "category": "baseball",
-        "listings": 2957,
-        "floor_min": 200,
-        "total_value": 6622192.32
-      },
       {
         "avg": 860.85,
         "date": "2026-06-28",
@@ -2720,33 +2711,33 @@
         "listings": 8249,
         "floor_min": 200,
         "total_value": 14847701.31
+      },
+      {
+        "avg": 814.24,
+        "date": "2026-09-26",
+        "median": 352.71,
+        "category": "baseball",
+        "listings": 8400,
+        "floor_min": 200,
+        "total_value": 14976024.62
       }
     ]
   },
   "floor_baseball": {
-    "as_of": "2026-09-25",
+    "as_of": "2026-09-26",
     "categories": [
       {
-        "avg": 817.2,
-        "median": 353.53,
+        "avg": 814.24,
+        "median": 352.71,
         "category": "baseball",
-        "listings": 8249,
+        "listings": 8400,
         "floor_min": 200,
-        "total_value": 14847701.31
+        "total_value": 14976024.62
       }
     ]
   },
   "index_pokemon": {
     "series": [
-      {
-        "avg": 1925.3,
-        "date": "2026-06-27",
-        "median": 743.5,
-        "category": "pokemon",
-        "listings": 924,
-        "floor_min": 200,
-        "total_value": 2184862.4
-      },
       {
         "avg": 1926.7,
         "date": "2026-06-28",
@@ -3556,19 +3547,28 @@
         "listings": 2076,
         "floor_min": 200,
         "total_value": 5256214.2
+      },
+      {
+        "avg": 2129.76,
+        "date": "2026-09-26",
+        "median": 908.77,
+        "category": "pokemon",
+        "listings": 2050,
+        "floor_min": 200,
+        "total_value": 5209380.24
       }
     ]
   },
   "floor_pokemon": {
-    "as_of": "2026-09-25",
+    "as_of": "2026-09-26",
     "categories": [
       {
-        "avg": 2120.07,
+        "avg": 2129.76,
         "median": 908.77,
         "category": "pokemon",
-        "listings": 2076,
+        "listings": 2050,
         "floor_min": 200,
-        "total_value": 5256214.2
+        "total_value": 5209380.24
       }
     ]
   }
